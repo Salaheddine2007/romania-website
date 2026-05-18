@@ -1402,6 +1402,8 @@
       .nav-links { display: none; }
       .hamburger { display: flex; }
       .nav-cta .btn-ghost { display: none; }
+      /* Tablet: 2 slides visible */
+      .slide { flex: 0 0 calc((100% - 16px) / 2); }
     }
     /* ─── MOVIES SLIDER ─── */
     .movies-section { padding: 60px 0 80px; }
@@ -1526,11 +1528,19 @@
       .payment-inner { gap: 24px; }
       .trust-divider { display: none; }
       .hero h1 { font-size: 2rem; }
+      .hero { padding: 100px 0 60px; }
+      /* Mobile: 1 slide visible */
+      .slide { flex: 0 0 100%; }
       .slider-btn { width: 38px; height: 38px; font-size: 0.9rem; }
       .slider-prev { left: 8px; }
       .slider-next { right: 8px; }
       .slide-overlay { padding: 16px 20px; }
       .pricing-grid-4 { grid-template-columns: 1fr; max-width: 420px; margin: 0 auto; }
+      /* Device toggle: tighter on small screens */
+      .dev-tab { padding: 8px 14px; font-size: 0.8rem; }
+      .dev-toggle-wrap { gap: 4px; padding: 4px; }
+      /* Smaller container padding */
+      .container { padding: 0 16px; }
     }
   </style>
 </head>
@@ -2381,30 +2391,42 @@
     }, dur / steps);
   }
 
-  // ── Film Slider (3 visible at once)
+  // ── Film Slider (responsive: 1 mobile / 2 tablet / 3 desktop)
   (function() {
     const track = document.getElementById('sliderTrack');
     if (!track) return;
     const slides = track.querySelectorAll('.slide');
     const dotsContainer = document.getElementById('sliderDots');
     const vp = document.getElementById('filmSlider');
-    const VISIBLE = 3;
     const total = slides.length;
-    const maxIndex = total - VISIBLE; // 9-3 = 6
     let current = 0, autoTimer, isDragging = false, startX = 0, dragDelta = 0;
+    let VISIBLE, maxIndex;
+
+    function getVisible() {
+      return window.innerWidth <= 640 ? 1 : window.innerWidth <= 1024 ? 2 : 3;
+    }
 
     function getSlideWidth() {
       const gap = 16;
       return (vp.offsetWidth - gap * (VISIBLE - 1)) / VISIBLE + gap;
     }
 
-    // Build dots (one per visible position)
-    for (let i = 0; i <= maxIndex; i++) {
-      const d = document.createElement('button');
-      d.className = 'slider-dot' + (i === 0 ? ' active' : '');
-      d.setAttribute('aria-label', 'Grup ' + (i + 1));
-      d.addEventListener('click', () => { stopAuto(); goTo(i); startAuto(); });
-      dotsContainer.appendChild(d);
+    function buildDots() {
+      dotsContainer.innerHTML = '';
+      for (let i = 0; i <= maxIndex; i++) {
+        const d = document.createElement('button');
+        d.className = 'slider-dot' + (i === 0 ? ' active' : '');
+        d.setAttribute('aria-label', 'Grup ' + (i + 1));
+        d.addEventListener('click', () => { stopAuto(); goTo(i); startAuto(); });
+        dotsContainer.appendChild(d);
+      }
+    }
+
+    function init() {
+      VISIBLE = getVisible();
+      maxIndex = total - VISIBLE;
+      buildDots();
+      goTo(0);
     }
 
     function goTo(n) {
@@ -2442,12 +2464,21 @@
       dragDelta = 0;
     });
 
-    // Recalculate on resize
-    window.addEventListener('resize', () => goTo(current), { passive: true });
+    // Reinit on resize (breakpoint change)
+    let resizeTimer;
+    window.addEventListener('resize', () => {
+      clearTimeout(resizeTimer);
+      resizeTimer = setTimeout(() => {
+        const newVis = getVisible();
+        if (newVis !== VISIBLE) { stopAuto(); init(); startAuto(); }
+        else { goTo(current); }
+      }, 120);
+    }, { passive: true });
 
     vp.addEventListener('mouseenter', stopAuto);
     vp.addEventListener('mouseleave', startAuto);
 
+    init();
     startAuto();
   })();
 
