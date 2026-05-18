@@ -268,6 +268,9 @@
       transition: all 0.25s ease;
     }
     .nav-links a:hover { color: var(--text-1); background: var(--surface); }
+    .nav-sep { width: 1px; height: 18px; background: rgba(0,30,100,0.1); margin: 0 4px; }
+    .nav-partner { font-size: 0.78rem !important; font-weight: 600 !important; color: var(--text-3) !important; padding: 6px 10px !important; border-radius: 8px; }
+    .nav-partner:hover { color: var(--text-1) !important; background: var(--surface); }
     .nav-cta {
       display: flex;
       align-items: center;
@@ -1556,8 +1559,12 @@
       <li><a href="#features">Funcții</a></li>
       <li><a href="#devices">Dispozitive</a></li>
       <li><a href="#pricing">Prețuri</a></li>
-      <li><a href="#testimonials">Recenzii</a></li>
-      <li><a href="#faq">FAQ</a></li>
+      <li><a href="/tutorial/">Tutorial</a></li>
+      <li><a href="/channels/">Canale</a></li>
+      <li><a href="/blog/">Blog</a></li>
+      <li><div class="nav-sep" role="separator"></div></li>
+      <li><a href="https://greekiptv.tv" class="nav-partner" rel="nofollow noopener" target="_blank">Greek IPTV</a></li>
+      <li><a href="https://tilaaiptv.com" class="nav-partner" rel="nofollow noopener" target="_blank">Tilaa IPTV</a></li>
     </ul>
     <div class="nav-cta">
       <a href="#pricing" class="btn-ghost">Autentificare</a>
@@ -1575,8 +1582,11 @@
   <a href="#features" onclick="closeMobileNav()">Funcții</a>
   <a href="#devices" onclick="closeMobileNav()">Dispozitive</a>
   <a href="#pricing" onclick="closeMobileNav()">Prețuri</a>
-  <a href="#testimonials" onclick="closeMobileNav()">Recenzii</a>
-  <a href="#faq" onclick="closeMobileNav()">FAQ</a>
+  <a href="/tutorial/" onclick="closeMobileNav()">Tutorial</a>
+  <a href="/channels/" onclick="closeMobileNav()">Canale</a>
+  <a href="/blog/" onclick="closeMobileNav()">Blog</a>
+  <a href="https://greekiptv.tv" rel="nofollow noopener" target="_blank" onclick="closeMobileNav()" style="font-size:1rem;opacity:.6">Greek IPTV ↗</a>
+  <a href="https://tilaaiptv.com" rel="nofollow noopener" target="_blank" onclick="closeMobileNav()" style="font-size:1rem;opacity:.6">Tilaa IPTV ↗</a>
   <a href="#pricing" class="btn-hero-primary" style="margin-top:16px" onclick="closeMobileNav()">
     <span>Test Gratuit 24h</span>
   </a>
