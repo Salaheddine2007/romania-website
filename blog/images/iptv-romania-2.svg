@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <rect width="800" height="450" fill="#f0f4ff"/>
+  <rect x="100" y="80" width="600" height="340" rx="15" fill="#002B7F"/>
+  <rect x="120" y="100" width="560" height="270" rx="8" fill="#111"/>
+  <rect x="130" y="110" width="540" height="250" rx="5" fill="#1a1a2e"/>
+  <text x="400" y="210" font-family="system-ui,sans-serif" font-size="32" font-weight="bold" fill="white" text-anchor="middle">📺 20.000+</text>
+  <text x="400" y="255" font-family="system-ui,sans-serif" font-size="20" fill="#FCD116" text-anchor="middle">Canale HD &amp; 4K</text>
+  <text x="400" y="295" font-family="system-ui,sans-serif" font-size="16" fill="#aaa" text-anchor="middle">romaniaiptv.tv</text>
+  <rect x="300" y="380" width="200" height="20" rx="5" fill="#333"/>
+  <rect x="370" y="400" width="60" height="10" rx="3" fill="#444"/>
+</svg>
