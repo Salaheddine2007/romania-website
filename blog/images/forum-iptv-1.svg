@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <rect width="800" height="450" fill="#002B7F"/>
+  <rect x="20" y="20" width="760" height="410" rx="12" fill="#0a3a9e"/>
+  <!-- Forum chat bubbles -->
+  <rect x="60" y="80" width="300" height="70" rx="10" fill="#FCD116"/>
+  <text x="80" y="110" font-family="system-ui,Arial" font-size="18" font-weight="bold" fill="#002B7F">Forum IPTV România</text>
+  <text x="80" y="135" font-family="system-ui,Arial" font-size="13" fill="#002B7F">Comunitate canale românești</text>
+  <rect x="440" y="160" width="300" height="70" rx="10" fill="#ffffff" opacity="0.9"/>
+  <text x="460" y="190" font-family="system-ui,Arial" font-size="16" fill="#002B7F">📺 Lista canale M3U</text>
+  <text x="460" y="215" font-family="system-ui,Arial" font-size="13" fill="#555">Pro TV · Antena 1 · Digi24</text>
+  <rect x="60" y="190" width="300" height="70" rx="10" fill="#CE1126"/>
+  <text x="80" y="218" font-family="system-ui,Arial" font-size="16" font-weight="bold" fill="#ffffff">💬 Suport tehnic</text>
+  <text x="80" y="243" font-family="system-ui,Arial" font-size="13" fill="#ffcccc">Ajutor configurare IPTV</text>
+  <rect x="440" y="275" width="300" height="70" rx="10" fill="#FCD116"/>
+  <text x="460" y="303" font-family="system-ui,Arial" font-size="16" font-weight="bold" fill="#002B7F">🌍 Diaspora română</text>
+  <text x="460" y="328" font-family="system-ui,Arial" font-size="13" fill="#002B7F">IPTV în toată Europa</text>
+  <!-- Users icons -->
+  <circle cx="700" cy="100" r="30" fill="#ffffff" opacity="0.15"/>
+  <text x="686" y="108" font-family="system-ui,Arial" font-size="28">👥</text>
+  <!-- Title -->
+  <text x="400" y="410" font-family="system-ui,Arial" font-size="15" fill="#FCD116" text-anchor="middle" opacity="0.8">romaniaiptv.tv — Forum IPTV</text>
+</svg>
