@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <rect width="800" height="450" fill="#002B7F"/>
+  <!-- Background glow -->
+  <ellipse cx="400" cy="225" rx="350" ry="200" fill="#003d99" opacity="0.5"/>
+  <!-- Central TV/screen icon -->
+  <rect x="260" y="100" width="280" height="180" rx="16" fill="#0a1a4a" stroke="#FCD116" stroke-width="3"/>
+  <rect x="275" y="115" width="250" height="150" rx="8" fill="#001133"/>
+  <!-- Screen content - Romanian flag colors -->
+  <rect x="275" y="115" width="83" height="150" rx="0" fill="#002B7F" opacity="0.7"/>
+  <rect x="358" y="115" width="84" height="150" fill="#FCD116" opacity="0.7"/>
+  <rect x="442" y="115" width="83" height="150" rx="0" fill="#CE1126" opacity="0.7"/>
+  <!-- Play button overlay -->
+  <circle cx="400" cy="190" r="35" fill="#002B7F" opacity="0.85"/>
+  <polygon points="390,175 390,205 420,190" fill="#FCD116"/>
+  <!-- TV stand -->
+  <rect x="385" y="280" width="30" height="25" fill="#FCD116" opacity="0.8"/>
+  <rect x="355" y="305" width="90" height="10" rx="5" fill="#FCD116" opacity="0.6"/>
+  <!-- Community bubbles -->
+  <!-- Left chat bubble -->
+  <rect x="50" y="130" width="180" height="70" rx="14" fill="#ffffff" opacity="0.95"/>
+  <polygon points="220,165 240,175 220,185" fill="#ffffff" opacity="0.95"/>
+  <rect x="65" y="145" width="120" height="10" rx="5" fill="#002B7F" opacity="0.7"/>
+  <rect x="65" y="162" width="90" height="8" rx="4" fill="#6b7280" opacity="0.5"/>
+  <rect x="65" y="176" width="100" height="8" rx="4" fill="#6b7280" opacity="0.4"/>
+  <text x="175" y="215" font-family="system-ui" font-size="10" fill="#FCD116" text-anchor="middle" font-weight="600">Forum RO</text>
+  <!-- Right chat bubble -->
+  <rect x="570" y="130" width="180" height="70" rx="14" fill="#FCD116" opacity="0.95"/>
+  <polygon points="580,165 560,175 580,185" fill="#FCD116" opacity="0.95"/>
+  <rect x="585" y="145" width="120" height="10" rx="5" fill="#002B7F" opacity="0.7"/>
+  <rect x="585" y="162" width="90" height="8" rx="4" fill="#002B7F" opacity="0.5"/>
+  <rect x="585" y="176" width="100" height="8" rx="4" fill="#002B7F" opacity="0.4"/>
+  <text x="660" y="215" font-family="system-ui" font-size="10" fill="#FCD116" text-anchor="middle" font-weight="600">Comunitate</text>
+  <!-- Bottom bubble -->
+  <rect x="270" y="340" width="260" height="55" rx="14" fill="#ffffff" opacity="0.1" stroke="#FCD116" stroke-width="1"/>
+  <text x="400" y="363" font-family="system-ui" font-size="14" font-weight="700" fill="#FCD116" text-anchor="middle">IPTV Forum Romania</text>
+  <text x="400" y="383" font-family="system-ui" font-size="11" fill="#ffffff" text-anchor="middle" opacity="0.8">Comunitatea diasporei romane</text>
+  <!-- Stars/dots decoration -->
+  <circle cx="100" cy="350" r="3" fill="#FCD116" opacity="0.6"/>
+  <circle cx="120" cy="370" r="2" fill="#FCD116" opacity="0.4"/>
+  <circle cx="700" cy="350" r="3" fill="#FCD116" opacity="0.6"/>
+  <circle cx="680" cy="375" r="2" fill="#FCD116" opacity="0.4"/>
+  <circle cx="150" cy="80" r="4" fill="#FCD116" opacity="0.3"/>
+  <circle cx="650" cy="80" r="4" fill="#FCD116" opacity="0.3"/>
+  <!-- Bottom tag -->
+  <text x="400" y="430" font-family="system-ui" font-size="11" fill="#FCD116" text-anchor="middle" opacity="0.7">romaniaiptv.tv</text>
+</svg>
