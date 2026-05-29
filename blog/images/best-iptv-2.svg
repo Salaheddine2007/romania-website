@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#001a4d;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#003399;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg2)" rx="12"/>
+  <rect x="80" y="70" width="640" height="200" rx="10" fill="#0a0a2e" opacity="0.8"/>
+  <rect x="90" y="80" width="620" height="180" rx="8" fill="#111133"/>
+  <rect x="100" y="90" width="200" height="110" rx="6" fill="#1a1a44"/>
+  <rect x="310" y="90" width="200" height="110" rx="6" fill="#1a1a44"/>
+  <rect x="520" y="90" width="160" height="110" rx="6" fill="#1a1a44"/>
+  <text x="200" y="155" font-family="system-ui,Arial,sans-serif" font-size="12" fill="#FCD116" text-anchor="middle">ProTV</text>
+  <text x="410" y="155" font-family="system-ui,Arial,sans-serif" font-size="12" fill="#FCD116" text-anchor="middle">Antena 1</text>
+  <text x="600" y="155" font-family="system-ui,Arial,sans-serif" font-size="12" fill="#FCD116" text-anchor="middle">Digi24</text>
+  <rect x="100" y="210" width="90" height="50" rx="6" fill="#CE1126" opacity="0.8"/>
+  <text x="145" y="241" font-family="system-ui,Arial,sans-serif" font-size="11" fill="#FFF" text-anchor="middle">Sport</text>
+  <rect x="200" y="210" width="90" height="50" rx="6" fill="#002B7F" opacity="0.8"/>
+  <text x="245" y="241" font-family="system-ui,Arial,sans-serif" font-size="11" fill="#FFF" text-anchor="middle">Film</text>
+  <rect x="300" y="210" width="90" height="50" rx="6" fill="#005500" opacity="0.8"/>
+  <text x="345" y="241" font-family="system-ui,Arial,sans-serif" font-size="11" fill="#FFF" text-anchor="middle">Stiri</text>
+  <rect x="400" y="210" width="90" height="50" rx="6" fill="#550055" opacity="0.8"/>
+  <text x="445" y="241" font-family="system-ui,Arial,sans-serif" font-size="11" fill="#FFF" text-anchor="middle">Copii</text>
+  <rect x="500" y="210" width="90" height="50" rx="6" fill="#884400" opacity="0.8"/>
+  <text x="545" y="241" font-family="system-ui,Arial,sans-serif" font-size="11" fill="#FFF" text-anchor="middle">Muzica</text>
+  <rect x="600" y="210" width="90" height="50" rx="6" fill="#004455" opacity="0.8"/>
+  <text x="645" y="241" font-family="system-ui,Arial,sans-serif" font-size="11" fill="#FFF" text-anchor="middle">Travel</text>
+  <rect x="80" y="295" width="640" height="4" rx="2" fill="#FCD116" opacity="0.6"/>
+  <text x="400" y="340" font-family="system-ui,Arial,sans-serif" font-size="30" font-weight="bold" fill="#FFFFFF" text-anchor="middle">1000+ Canale Românești și Internaționale</text>
+  <text x="400" y="375" font-family="system-ui,Arial,sans-serif" font-size="17" fill="#FCD116" text-anchor="middle">Cel mai bun IPTV pentru diaspora română</text>
+  <rect x="290" y="395" width="220" height="36" rx="8" fill="#FCD116"/>
+  <text x="400" y="419" font-family="system-ui,Arial,sans-serif" font-size="14" font-weight="bold" fill="#002B7F" text-anchor="middle">romaniaiptv.tv</text>
+</svg>
