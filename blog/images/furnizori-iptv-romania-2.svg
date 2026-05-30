@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <rect width="800" height="450" fill="#f5f7ff"/>
+  <rect x="0" y="0" width="800" height="8" fill="#002B7F"/>
+  <!-- Section header -->
+  <text x="400" y="55" font-family="Arial,sans-serif" font-size="20" font-weight="bold" fill="#002B7F" text-anchor="middle">Cum Alegi Cel Mai Bun Furnizor IPTV Romania</text>
+  <!-- Criteria boxes -->
+  <!-- Box 1: Calitate -->
+  <rect x="60" y="90" width="150" height="120" rx="12" fill="#002B7F"/>
+  <text x="135" y="135" font-family="Arial,sans-serif" font-size="28" fill="#FCD116" text-anchor="middle">📶</text>
+  <text x="135" y="160" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#fff" text-anchor="middle">Calitate</text>
+  <text x="135" y="178" font-family="Arial,sans-serif" font-size="11" fill="#FCD116" text-anchor="middle">HD / 4K</text>
+  <text x="135" y="196" font-family="Arial,sans-serif" font-size="11" fill="#ddd" text-anchor="middle">fără buffering</text>
+  <!-- Box 2: Canale -->
+  <rect x="230" y="90" width="150" height="120" rx="12" fill="#CE1126"/>
+  <text x="305" y="135" font-family="Arial,sans-serif" font-size="28" fill="#FCD116" text-anchor="middle">📺</text>
+  <text x="305" y="160" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#fff" text-anchor="middle">Canale</text>
+  <text x="305" y="178" font-family="Arial,sans-serif" font-size="11" fill="#FCD116" text-anchor="middle">500+ canale</text>
+  <text x="305" y="196" font-family="Arial,sans-serif" font-size="11" fill="#ddd" text-anchor="middle">românești</text>
+  <!-- Box 3: Preț -->
+  <rect x="400" y="90" width="150" height="120" rx="12" fill="#002B7F"/>
+  <text x="475" y="135" font-family="Arial,sans-serif" font-size="28" fill="#FCD116" text-anchor="middle">💶</text>
+  <text x="475" y="160" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#fff" text-anchor="middle">Preț</text>
+  <text x="475" y="178" font-family="Arial,sans-serif" font-size="11" fill="#FCD116" text-anchor="middle">accesibil</text>
+  <text x="475" y="196" font-family="Arial,sans-serif" font-size="11" fill="#ddd" text-anchor="middle">fără contract</text>
+  <!-- Box 4: Suport -->
+  <rect x="570" y="90" width="150" height="120" rx="12" fill="#CE1126"/>
+  <text x="645" y="135" font-family="Arial,sans-serif" font-size="28" fill="#FCD116" text-anchor="middle">🎧</text>
+  <text x="645" y="160" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#fff" text-anchor="middle">Suport</text>
+  <text x="645" y="178" font-family="Arial,sans-serif" font-size="11" fill="#FCD116" text-anchor="middle">24/7</text>
+  <text x="645" y="196" font-family="Arial,sans-serif" font-size="11" fill="#ddd" text-anchor="middle">în română</text>
+  <!-- Devices row -->
+  <rect x="80" y="250" width="620" height="80" rx="12" fill="#002B7F" opacity="0.08"/>
+  <text x="400" y="278" font-family="Arial,sans-serif" font-size="14" font-weight="bold" fill="#002B7F" text-anchor="middle">Dispozitive Compatibile</text>
+  <text x="155" y="308" font-family="Arial,sans-serif" font-size="22" text-anchor="middle">📱</text>
+  <text x="155" y="323" font-family="Arial,sans-serif" font-size="11" fill="#555" text-anchor="middle">Smartphone</text>
+  <text x="280" y="308" font-family="Arial,sans-serif" font-size="22" text-anchor="middle">💻</text>
+  <text x="280" y="323" font-family="Arial,sans-serif" font-size="11" fill="#555" text-anchor="middle">Laptop / PC</text>
+  <text x="400" y="308" font-family="Arial,sans-serif" font-size="22" text-anchor="middle">📺</text>
+  <text x="400" y="323" font-family="Arial,sans-serif" font-size="11" fill="#555" text-anchor="middle">Smart TV</text>
+  <text x="520" y="308" font-family="Arial,sans-serif" font-size="22" text-anchor="middle">🎮</text>
+  <text x="520" y="323" font-family="Arial,sans-serif" font-size="11" fill="#555" text-anchor="middle">Fire Stick</text>
+  <text x="645" y="308" font-family="Arial,sans-serif" font-size="22" text-anchor="middle">📦</text>
+  <text x="645" y="323" font-family="Arial,sans-serif" font-size="11" fill="#555" text-anchor="middle">Android Box</text>
+  <!-- Title bottom -->
+  <text x="400" y="400" font-family="Arial,sans-serif" font-size="18" font-weight="bold" fill="#002B7F" text-anchor="middle">Romania IPTV – Furnizor de Încredere din 2020</text>
+  <text x="400" y="425" font-family="Arial,sans-serif" font-size="13" fill="#555" text-anchor="middle">romaniaiptv.tv • canale românești pentru diaspora</text>
+</svg>
