@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <rect width="800" height="450" fill="#002B7F"/>
+  <rect x="50" y="50" width="700" height="350" rx="20" fill="#001a4d"/>
+  <rect x="80" y="80" width="640" height="260" rx="10" fill="#0a1628"/>
+  <!-- Screen content -->
+  <rect x="100" y="100" width="180" height="100" rx="5" fill="#1a2a4a"/>
+  <rect x="300" y="100" width="180" height="100" rx="5" fill="#1a2a4a"/>
+  <rect x="500" y="100" width="180" height="100" rx="5" fill="#1a2a4a"/>
+  <rect x="100" y="220" width="180" height="100" rx="5" fill="#1a2a4a"/>
+  <rect x="300" y="220" width="180" height="100" rx="5" fill="#1a2a4a"/>
+  <rect x="500" y="220" width="180" height="100" rx="5" fill="#1a2a4a"/>
+  <!-- Play icons -->
+  <polygon points="170,140 170,190 210,165" fill="#FCD116"/>
+  <polygon points="370,140 370,190 410,165" fill="#FCD116"/>
+  <polygon points="570,140 570,190 610,165" fill="#FCD116"/>
+  <polygon points="170,260 170,310 210,285" fill="#CE1126"/>
+  <polygon points="370,260 370,310 410,285" fill="#CE1126"/>
+  <polygon points="570,260 570,310 610,285" fill="#CE1126"/>
+  <!-- Title -->
+  <text x="400" y="400" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#FCD116" text-anchor="middle">IPTV EXTREME</text>
+  <text x="400" y="430" font-family="Arial, sans-serif" font-size="16" fill="#FFFFFF" text-anchor="middle">Aplicatia IPTV pentru Android</text>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <rect width="800" height="450" fill="#f8f9ff"/>
+  <!-- Romanian flag strip top -->
+  <rect x="0" y="0" width="266" height="8" fill="#002B7F"/>
+  <rect x="266" y="0" width="268" height="8" fill="#FCD116"/>
+  <rect x="534" y="0" width="266" height="8" fill="#CE1126"/>
+  <!-- Main card -->
+  <rect x="50" y="50" width="700" height="350" rx="16" fill="white" stroke="#002B7F" stroke-width="2"/>
+  <!-- Title area -->
+  <rect x="50" y="50" width="700" height="80" rx="16" fill="#002B7F"/>
+  <rect x="50" y="110" width="700" height="20" fill="#002B7F"/>
+  <text x="400" y="100" font-family="system-ui,sans-serif" font-size="28" font-weight="700" fill="white" text-anchor="middle">IPTV Romania Legal</text>
+  <!-- Shield icon -->
+  <g transform="translate(130,160)">
+    <path d="M60,10 L110,30 L110,80 Q110,120 60,140 Q10,120 10,80 L10,30 Z" fill="#002B7F" opacity="0.15"/>
+    <path d="M60,20 L100,36 L100,80 Q100,112 60,128 Q20,112 20,80 L20,36 Z" fill="#002B7F"/>
+    <text x="60" y="90" font-family="system-ui,sans-serif" font-size="40" fill="#FCD116" text-anchor="middle">✓</text>
+  </g>
+  <!-- Text content -->
+  <text x="280" y="185" font-family="system-ui,sans-serif" font-size="22" font-weight="700" fill="#002B7F">Serviciu IPTV 100% Legal</text>
+  <text x="280" y="215" font-family="system-ui,sans-serif" font-size="15" fill="#555">Licențiat și autorizat pentru difuzare</text>
+  <text x="280" y="250" font-family="system-ui,sans-serif" font-size="14" fill="#333">✓  Canale românești HD/FHD</text>
+  <text x="280" y="275" font-family="system-ui,sans-serif" font-size="14" fill="#333">✓  Drepturi de autor respectate</text>
+  <text x="280" y="300" font-family="system-ui,sans-serif" font-size="14" fill="#333">✓  Suport tehnic 24/7</text>
+  <text x="280" y="325" font-family="system-ui,sans-serif" font-size="14" fill="#333">✓  Fără riscuri juridice</text>
+  <!-- Badge -->
+  <rect x="500" y="340" width="220" height="40" rx="20" fill="#FCD116"/>
+  <text x="610" y="366" font-family="system-ui,sans-serif" font-size="15" font-weight="700" fill="#002B7F" text-anchor="middle">romaniaiptv.tv</text>
+</svg>

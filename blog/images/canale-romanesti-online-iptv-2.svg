@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9ff"/>
+      <stop offset="100%" style="stop-color:#e8edff"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg2)"/>
+  <!-- Header bar -->
+  <rect width="800" height="80" fill="#002B7F"/>
+  <text x="40" y="52" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#FCD116">Romania IPTV</text>
+  <text x="760" y="52" font-family="Arial, sans-serif" font-size="16" fill="white" text-anchor="end">canale romanesti online</text>
+  <!-- Channel list items -->
+  <rect x="40" y="110" width="340" height="55" rx="8" fill="white" stroke="#002B7F" stroke-width="1.5"/>
+  <rect x="40" y="110" width="8" height="55" rx="4" fill="#CE1126"/>
+  <text x="65" y="135" font-family="Arial" font-size="15" font-weight="bold" fill="#002B7F">PRO TV</text>
+  <text x="65" y="152" font-family="Arial" font-size="11" fill="#666">Divertisment &amp; Știri HD</text>
+  <circle cx="355" cy="137" r="12" fill="#00c853" opacity="0.8"/>
+  <text x="355" y="142" font-family="Arial" font-size="9" fill="white" text-anchor="middle">LIVE</text>
+
+  <rect x="40" y="178" width="340" height="55" rx="8" fill="white" stroke="#002B7F" stroke-width="1.5"/>
+  <rect x="40" y="178" width="8" height="55" rx="4" fill="#002B7F"/>
+  <text x="65" y="203" font-family="Arial" font-size="15" font-weight="bold" fill="#002B7F">TVR 1</text>
+  <text x="65" y="220" font-family="Arial" font-size="11" fill="#666">Televiziunea Publică Română</text>
+  <circle cx="355" cy="205" r="12" fill="#00c853" opacity="0.8"/>
+  <text x="355" y="210" font-family="Arial" font-size="9" fill="white" text-anchor="middle">LIVE</text>
+
+  <rect x="40" y="246" width="340" height="55" rx="8" fill="white" stroke="#002B7F" stroke-width="1.5"/>
+  <rect x="40" y="246" width="8" height="55" rx="4" fill="#FCD116"/>
+  <text x="65" y="271" font-family="Arial" font-size="15" font-weight="bold" fill="#002B7F">ANTENA 1</text>
+  <text x="65" y="288" font-family="Arial" font-size="11" fill="#666">Divertisment Premium</text>
+  <circle cx="355" cy="273" r="12" fill="#00c853" opacity="0.8"/>
+  <text x="355" y="278" font-family="Arial" font-size="9" fill="white" text-anchor="middle">LIVE</text>
+
+  <rect x="40" y="314" width="340" height="55" rx="8" fill="white" stroke="#002B7F" stroke-width="1.5"/>
+  <rect x="40" y="314" width="8" height="55" rx="4" fill="#1a1a1a"/>
+  <text x="65" y="339" font-family="Arial" font-size="15" font-weight="bold" fill="#002B7F">DIGI 24</text>
+  <text x="65" y="356" font-family="Arial" font-size="11" fill="#666">Știri Non-Stop HD</text>
+  <circle cx="355" cy="341" r="12" fill="#00c853" opacity="0.8"/>
+  <text x="355" y="346" font-family="Arial" font-size="9" fill="white" text-anchor="middle">LIVE</text>
+
+  <!-- Right side info box -->
+  <rect x="420" y="100" width="340" height="330" rx="12" fill="#002B7F"/>
+  <text x="590" y="140" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#FCD116" text-anchor="middle">Diaspora Română</text>
+  <text x="590" y="162" font-family="Arial, sans-serif" font-size="13" fill="white" opacity="0.8" text-anchor="middle">Canale românești în toată lumea</text>
+  <!-- Stats -->
+  <text x="590" y="210" font-family="Arial, sans-serif" font-size="42" font-weight="bold" fill="#FCD116" text-anchor="middle">150+</text>
+  <text x="590" y="235" font-family="Arial, sans-serif" font-size="13" fill="white" text-anchor="middle">Canale HD disponibile</text>
+  <line x1="450" y1="255" x2="730" y2="255" stroke="#FCD116" stroke-width="1" opacity="0.3"/>
+  <text x="590" y="290" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#FCD116" text-anchor="middle">24/7</text>
+  <text x="590" y="313" font-family="Arial, sans-serif" font-size="13" fill="white" text-anchor="middle">Transmisie continuă</text>
+  <line x1="450" y1="330" x2="730" y2="330" stroke="#FCD116" stroke-width="1" opacity="0.3"/>
+  <!-- Romania flag colors strip -->
+  <rect x="420" y="400" width="113" height="30" rx="0" fill="#002B7F"/>
+  <rect x="533" y="400" width="113" height="30" fill="#FCD116"/>
+  <rect x="646" y="400" width="114" height="30" fill="#CE1126"/>
+  <!-- Bottom text -->
+  <text x="400" y="436" font-family="Arial, sans-serif" font-size="13" fill="#002B7F" text-anchor="middle" font-weight="bold">romaniaiptv.tv — Cel mai bun IPTV românesc</text>
+</svg>

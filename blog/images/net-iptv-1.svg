@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <rect width="800" height="450" fill="#002B7F"/>
+  <rect x="0" y="0" width="267" height="450" fill="#002B7F"/>
+  <rect x="267" y="0" width="266" height="450" fill="#FCD116"/>
+  <rect x="533" y="0" width="267" height="450" fill="#CE1126"/>
+  <rect x="180" y="90" width="440" height="270" rx="12" fill="rgba(0,0,0,0.75)"/>
+  <text x="400" y="175" font-family="system-ui,sans-serif" font-size="32" font-weight="bold" fill="white" text-anchor="middle">Net IPTV</text>
+  <text x="400" y="220" font-family="system-ui,sans-serif" font-size="19" fill="#FCD116" text-anchor="middle">Streaming Canale TV prin Internet</text>
+  <text x="400" y="260" font-family="system-ui,sans-serif" font-size="15" fill="white" text-anchor="middle">HD · 4K · VOD · Sport · Film</text>
+  <circle cx="400" cy="310" r="20" fill="none" stroke="#FCD116" stroke-width="3"/>
+  <polygon points="393,302 393,318 413,310" fill="#FCD116"/>
+</svg>

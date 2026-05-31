@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <rect width="800" height="450" fill="#f8f9ff"/>
+  <rect x="0" y="0" width="800" height="65" fill="#002B7F"/>
+  <text x="400" y="42" text-anchor="middle" font-family="Arial,sans-serif" font-size="26" font-weight="bold" fill="#FCD116">Canale Românești pe IPTV</text>
+  <!-- Channel cards -->
+  <!-- Row 1 -->
+  <rect x="30" y="90" width="165" height="90" rx="8" fill="#002B7F"/>
+  <text x="112" y="135" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="bold" fill="#FCD116">PRO TV</text>
+  <text x="112" y="160" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#fff">Divertisment</text>
+
+  <rect x="210" y="90" width="165" height="90" rx="8" fill="#CE1126"/>
+  <text x="292" y="130" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" font-weight="bold" fill="#ffffff">ANTENA 1</text>
+  <text x="292" y="155" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#ffcccc">Știri &amp; Show</text>
+
+  <rect x="390" y="90" width="165" height="90" rx="8" fill="#002B7F"/>
+  <text x="472" y="130" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" font-weight="bold" fill="#FCD116">DIGI SPORT</text>
+  <text x="472" y="155" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#fff">Sport Live</text>
+
+  <rect x="570" y="90" width="165" height="90" rx="8" fill="#1a5276"/>
+  <text x="652" y="130" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" font-weight="bold" fill="#ffffff">TVR 1</text>
+  <text x="652" y="155" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#adc6e8">Național</text>
+
+  <!-- Row 2 -->
+  <rect x="30" y="200" width="165" height="90" rx="8" fill="#1e8449"/>
+  <text x="112" y="245" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" font-weight="bold" fill="#ffffff">KANAL D</text>
+  <text x="112" y="268" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#d5f5e3">Seriale &amp; Film</text>
+
+  <rect x="210" y="200" width="165" height="90" rx="8" fill="#784212"/>
+  <text x="292" y="245" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#FCD116">PRIMA TV</text>
+  <text x="292" y="268" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#f0d9b5">Divertisment</text>
+
+  <rect x="390" y="200" width="165" height="90" rx="8" fill="#6c3483"/>
+  <text x="472" y="240" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#ffffff">ANTENA 3</text>
+  <text x="472" y="263" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#e8daef">Știri 24/7</text>
+
+  <rect x="570" y="200" width="165" height="90" rx="8" fill="#145a32"/>
+  <text x="652" y="240" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#FCD116">EURO SPORT</text>
+  <text x="652" y="263" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#abebc6">Sport Europa</text>
+
+  <!-- Bottom banner -->
+  <rect x="30" y="315" width="740" height="95" rx="10" fill="#002B7F"/>
+  <text x="400" y="352" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#FCD116">🇷🇴 +5000 Canale Românești și Internaționale</text>
+  <text x="400" y="380" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#ffffff">Disponibil pentru diaspora din toată lumea | romaniaiptv.tv</text>
+
+  <text x="400" y="435" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#aaa">© Romania IPTV — romaniaiptv.tv</text>
+</svg>

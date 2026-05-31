@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <rect width="800" height="450" fill="#f8f9ff"/>
+  <rect x="0" y="0" width="800" height="8" fill="#002B7F"/>
+  <rect x="0" y="442" width="800" height="8" fill="#CE1126"/>
+  <!-- TV Screen -->
+  <rect x="200" y="60" width="400" height="260" rx="16" fill="#002B7F"/>
+  <rect x="216" y="76" width="368" height="228" rx="8" fill="#001a57"/>
+  <!-- Content on screen -->
+  <rect x="230" y="90" width="160" height="90" rx="6" fill="#FCD116" opacity="0.9"/>
+  <text x="255" y="128" font-family="system-ui,Arial" font-size="13" font-weight="bold" fill="#002B7F">📺 Pro TV</text>
+  <text x="255" y="148" font-family="system-ui,Arial" font-size="11" fill="#002B7F">Live Stream</text>
+  <rect x="406" y="90" width="160" height="90" rx="6" fill="#CE1126" opacity="0.8"/>
+  <text x="425" y="128" font-family="system-ui,Arial" font-size="13" font-weight="bold" fill="#fff">📡 Antena 1</text>
+  <text x="425" y="148" font-family="system-ui,Arial" font-size="11" fill="#ffcccc">Live Stream</text>
+  <rect x="230" y="196" width="335" height="90" rx="6" fill="#0a3a9e" opacity="0.9"/>
+  <text x="350" y="236" font-family="system-ui,Arial" font-size="15" font-weight="bold" fill="#FCD116" text-anchor="middle">Romania IPTV</text>
+  <text x="350" y="260" font-family="system-ui,Arial" font-size="12" fill="#aabbff" text-anchor="middle">400+ Canale Românești</text>
+  <!-- TV Stand -->
+  <rect x="360" y="320" width="80" height="20" rx="4" fill="#002B7F"/>
+  <rect x="320" y="336" width="160" height="12" rx="4" fill="#002B7F"/>
+  <!-- Remote -->
+  <rect x="640" y="200" width="70" height="130" rx="20" fill="#333"/>
+  <circle cx="675" cy="240" r="12" fill="#CE1126"/>
+  <circle cx="655" cy="265" r="8" fill="#555"/>
+  <circle cx="695" cy="265" r="8" fill="#555"/>
+  <circle cx="675" cy="265" r="8" fill="#555"/>
+  <circle cx="675" cy="290" r="8" fill="#555"/>
+  <!-- Label -->
+  <text x="400" y="395" font-family="system-ui,Arial" font-size="16" font-weight="bold" fill="#002B7F" text-anchor="middle">Configurare IPTV România</text>
+  <text x="400" y="420" font-family="system-ui,Arial" font-size="13" fill="#666" text-anchor="middle">romaniaiptv.tv</text>
+</svg>

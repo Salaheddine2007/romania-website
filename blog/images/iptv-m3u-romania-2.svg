@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#001a4d;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#003399;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg2)" rx="12"/>
+  <!-- Romania flag colors bar -->
+  <rect x="0" y="0" width="267" height="8" rx="0" fill="#002B7F"/>
+  <rect x="267" y="0" width="266" height="8" fill="#FCD116"/>
+  <rect x="533" y="0" width="267" height="8" rx="0" fill="#CE1126"/>
+  <!-- Channel list mockup -->
+  <rect x="80" y="60" width="640" height="300" rx="12" fill="#FFFFFF" opacity="0.07"/>
+  <text x="400" y="95" font-family="system-ui,Arial,sans-serif" font-size="14" fill="#FCD116" text-anchor="middle">LISTA CANALE M3U ROMANIA</text>
+  <!-- Channel rows -->
+  <rect x="100" y="105" width="600" height="36" rx="6" fill="#FCD116" opacity="0.1"/>
+  <circle cx="130" cy="123" r="12" fill="#CE1126"/>
+  <text x="155" y="128" font-family="system-ui,Arial,sans-serif" font-size="13" fill="#FFFFFF">Pro TV HD</text>
+  <rect x="480" y="112" width="60" height="22" rx="4" fill="#002B7F" opacity="0.8"/>
+  <text x="510" y="127" font-family="system-ui,Arial,sans-serif" font-size="11" fill="#FCD116" text-anchor="middle">HD</text>
+
+  <rect x="100" y="148" width="600" height="36" rx="6" fill="#FFFFFF" opacity="0.05"/>
+  <circle cx="130" cy="166" r="12" fill="#002B7F"/>
+  <text x="155" y="171" font-family="system-ui,Arial,sans-serif" font-size="13" fill="#FFFFFF">Antena 1 HD</text>
+  <rect x="480" y="155" width="60" height="22" rx="4" fill="#002B7F" opacity="0.8"/>
+  <text x="510" y="170" font-family="system-ui,Arial,sans-serif" font-size="11" fill="#FCD116" text-anchor="middle">HD</text>
+
+  <rect x="100" y="191" width="600" height="36" rx="6" fill="#FCD116" opacity="0.1"/>
+  <circle cx="130" cy="209" r="12" fill="#0044CC"/>
+  <text x="155" y="214" font-family="system-ui,Arial,sans-serif" font-size="13" fill="#FFFFFF">Digi Sport 1 HD</text>
+  <rect x="480" y="198" width="60" height="22" rx="4" fill="#002B7F" opacity="0.8"/>
+  <text x="510" y="213" font-family="system-ui,Arial,sans-serif" font-size="11" fill="#FCD116" text-anchor="middle">HD</text>
+
+  <rect x="100" y="234" width="600" height="36" rx="6" fill="#FFFFFF" opacity="0.05"/>
+  <circle cx="130" cy="252" r="12" fill="#CE1126"/>
+  <text x="155" y="257" font-family="system-ui,Arial,sans-serif" font-size="13" fill="#FFFFFF">TVR 1 HD</text>
+  <rect x="480" y="241" width="60" height="22" rx="4" fill="#002B7F" opacity="0.8"/>
+  <text x="510" y="256" font-family="system-ui,Arial,sans-serif" font-size="11" fill="#FCD116" text-anchor="middle">HD</text>
+
+  <rect x="100" y="277" width="600" height="36" rx="6" fill="#FCD116" opacity="0.1"/>
+  <circle cx="130" cy="295" r="12" fill="#FCD116"/>
+  <text x="155" y="300" font-family="system-ui,Arial,sans-serif" font-size="13" fill="#FFFFFF">Kanal D HD</text>
+  <text x="680" y="297" font-family="system-ui,Arial,sans-serif" font-size="22" fill="#FCD116" text-anchor="middle">...</text>
+
+  <text x="400" y="390" font-family="system-ui,Arial,sans-serif" font-size="28" font-weight="bold" fill="#FFFFFF" text-anchor="middle">300+ Canale Românești</text>
+  <text x="400" y="420" font-family="system-ui,Arial,sans-serif" font-size="15" fill="#FCD116" text-anchor="middle">Acces instant prin lista M3U – romaniaiptv.tv</text>
+</svg>

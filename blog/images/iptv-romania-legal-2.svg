@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <rect width="800" height="450" fill="#f0f4ff"/>
+  <!-- Background pattern -->
+  <circle cx="700" cy="80" r="120" fill="#002B7F" opacity="0.05"/>
+  <circle cx="100" cy="380" r="100" fill="#CE1126" opacity="0.05"/>
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="60" fill="#002B7F"/>
+  <text x="400" y="38" font-family="system-ui,sans-serif" font-size="20" font-weight="700" fill="white" text-anchor="middle">Comparație: IPTV Legal vs. Ilegal în România</text>
+  <!-- Legal column -->
+  <rect x="40" y="80" width="330" height="320" rx="12" fill="white" stroke="#28a745" stroke-width="2"/>
+  <rect x="40" y="80" width="330" height="50" rx="12" fill="#28a745"/>
+  <rect x="40" y="110" width="330" height="20" fill="#28a745"/>
+  <text x="205" y="112" font-family="system-ui,sans-serif" font-size="18" font-weight="700" fill="white" text-anchor="middle">IPTV LEGAL ✓</text>
+  <text x="70" y="165" font-family="system-ui,sans-serif" font-size="13" fill="#333">✅  Licențe de difuzare valide</text>
+  <text x="70" y="195" font-family="system-ui,sans-serif" font-size="13" fill="#333">✅  Calitate video garantată</text>
+  <text x="70" y="225" font-family="system-ui,sans-serif" font-size="13" fill="#333">✅  Fără risc de blocare</text>
+  <text x="70" y="255" font-family="system-ui,sans-serif" font-size="13" fill="#333">✅  Protecție date personale</text>
+  <text x="70" y="285" font-family="system-ui,sans-serif" font-size="13" fill="#333">✅  Suport clienți activ</text>
+  <text x="70" y="315" font-family="system-ui,sans-serif" font-size="13" fill="#333">✅  Plată securizată</text>
+  <rect x="60" y="360" width="290" height="28" rx="14" fill="#002B7F"/>
+  <text x="205" y="379" font-family="system-ui,sans-serif" font-size="13" font-weight="600" fill="white" text-anchor="middle">romaniaiptv.tv — Alege legal!</text>
+  <!-- Illegal column -->
+  <rect x="430" y="80" width="330" height="320" rx="12" fill="white" stroke="#CE1126" stroke-width="2"/>
+  <rect x="430" y="80" width="330" height="50" rx="12" fill="#CE1126"/>
+  <rect x="430" y="110" width="330" height="20" fill="#CE1126"/>
+  <text x="595" y="112" font-family="system-ui,sans-serif" font-size="18" font-weight="700" fill="white" text-anchor="middle">IPTV ILEGAL ✗</text>
+  <text x="460" y="165" font-family="system-ui,sans-serif" font-size="13" fill="#333">❌  Fără licențe de difuzare</text>
+  <text x="460" y="195" font-family="system-ui,sans-serif" font-size="13" fill="#333">❌  Calitate instabilă</text>
+  <text x="460" y="225" font-family="system-ui,sans-serif" font-size="13" fill="#333">❌  Risc amenzi și procese</text>
+  <text x="460" y="255" font-family="system-ui,sans-serif" font-size="13" fill="#333">❌  Malware și viruși</text>
+  <text x="460" y="285" font-family="system-ui,sans-serif" font-size="13" fill="#333">❌  Niciun suport tehnic</text>
+  <text x="460" y="315" font-family="system-ui,sans-serif" font-size="13" fill="#333">❌  Furt de date personale</text>
+  <rect x="450" y="360" width="290" height="28" rx="14" fill="#CE1126"/>
+  <text x="595" y="379" font-family="system-ui,sans-serif" font-size="13" font-weight="600" fill="white" text-anchor="middle">Evită riscurile ilegale!</text>
+</svg>
