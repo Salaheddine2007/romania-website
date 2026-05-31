@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#002B7F"/>
+      <stop offset="100%" style="stop-color:#001a4f"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a3a6b"/>
+      <stop offset="100%" style="stop-color:#0d1f3c"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg)"/>
+  <!-- TV Screen -->
+  <rect x="150" y="60" width="500" height="300" rx="12" ry="12" fill="url(#screen)" stroke="#FCD116" stroke-width="4"/>
+  <!-- Screen content lines -->
+  <rect x="170" y="90" width="460" height="8" rx="4" fill="#FCD116" opacity="0.8"/>
+  <rect x="170" y="115" width="300" height="6" rx="3" fill="#ffffff" opacity="0.5"/>
+  <rect x="170" y="135" width="350" height="6" rx="3" fill="#ffffff" opacity="0.3"/>
+  <!-- Channel logos placeholder -->
+  <rect x="170" y="160" width="100" height="60" rx="6" fill="#CE1126" opacity="0.8"/>
+  <text x="220" y="196" font-family="Arial" font-size="12" fill="white" text-anchor="middle">PRO TV</text>
+  <rect x="285" y="160" width="100" height="60" rx="6" fill="#002B7F" opacity="0.8"/>
+  <text x="335" y="196" font-family="Arial" font-size="12" fill="#FCD116" text-anchor="middle">TVR 1</text>
+  <rect x="400" y="160" width="100" height="60" rx="6" fill="#333" opacity="0.8"/>
+  <text x="450" y="196" font-family="Arial" font-size="12" fill="white" text-anchor="middle">ANTENA 1</text>
+  <rect x="515" y="160" width="100" height="60" rx="6" fill="#1a1a1a" opacity="0.8"/>
+  <text x="565" y="196" font-family="Arial" font-size="12" fill="#FCD116" text-anchor="middle">DIGI 24</text>
+  <!-- Bottom bar -->
+  <rect x="170" y="240" width="460" height="4" rx="2" fill="#FCD116" opacity="0.4"/>
+  <rect x="170" y="260" width="200" height="6" rx="3" fill="#ffffff" opacity="0.3"/>
+  <rect x="170" y="280" width="300" height="6" rx="3" fill="#ffffff" opacity="0.2"/>
+  <!-- TV Stand -->
+  <rect x="350" y="360" width="100" height="20" rx="4" fill="#1a3a6b"/>
+  <rect x="300" y="378" width="200" height="12" rx="6" fill="#1a3a6b"/>
+  <!-- Play button -->
+  <circle cx="400" cy="210" r="30" fill="#FCD116" opacity="0.15"/>
+  <polygon points="390,198 390,222 418,210" fill="#FCD116" opacity="0.8"/>
+  <!-- Title text -->
+  <text x="400" y="420" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#FCD116" text-anchor="middle">Canale Românești Online IPTV</text>
+  <text x="400" y="442" font-family="Arial, sans-serif" font-size="13" fill="#ffffff" opacity="0.7" text-anchor="middle">Televiziune română oriunde în lume</text>
+</svg>
