@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <rect width="800" height="450" fill="#f0f4ff"/>
+  <text x="400" y="42" font-family="Arial" font-size="20" font-weight="bold" fill="#002B7F" text-anchor="middle">Lista IPTV România — Compatibil cu Toate Dispozitivele</text>
+  <!-- Smart TV -->
+  <rect x="50" y="70" width="200" height="130" rx="10" fill="#002B7F"/>
+  <rect x="62" y="80" width="176" height="108" rx="4" fill="#111"/>
+  <rect x="62" y="80" width="176" height="108" rx="4" fill="none" stroke="#FCD116" stroke-width="2"/>
+  <text x="150" y="130" font-family="Arial" font-size="13" fill="white" text-anchor="middle">Smart TV</text>
+  <text x="150" y="152" font-family="Arial" font-size="12" fill="#FCD116" text-anchor="middle">ProTV HD ▶</text>
+  <rect x="125" y="200" width="50" height="8" rx="4" fill="#555"/>
+  <rect x="108" y="208" width="84" height="20" rx="4" fill="#333"/>
+  <!-- Android Box -->
+  <rect x="290" y="70" width="200" height="130" rx="10" fill="#28a745"/>
+  <rect x="302" y="80" width="176" height="108" rx="4" fill="#111"/>
+  <text x="390" y="130" font-family="Arial" font-size="13" fill="white" text-anchor="middle">Android Box</text>
+  <text x="390" y="152" font-family="Arial" font-size="12" fill="#FCD116" text-anchor="middle">Antena 1 HD ▶</text>
+  <rect x="365" y="200" width="50" height="8" rx="4" fill="#333"/>
+  <!-- iPhone/Mobile -->
+  <rect x="530" y="55" width="110" height="185" rx="14" fill="#CE1126"/>
+  <rect x="540" y="70" width="90" height="150" rx="4" fill="#111"/>
+  <text x="585" y="142" font-family="Arial" font-size="11" fill="white" text-anchor="middle">Telefon</text>
+  <text x="585" y="158" font-family="Arial" font-size="10" fill="#FCD116" text-anchor="middle">TVR 1 ▶</text>
+  <circle cx="585" cy="222" r="6" fill="#888"/>
+  <!-- PC/Laptop -->
+  <rect x="650" y="90" width="120" height="80" rx="6" fill="#6f42c1"/>
+  <rect x="658" y="97" width="104" height="65" rx="3" fill="#111"/>
+  <text x="710" y="132" font-family="Arial" font-size="11" fill="white" text-anchor="middle">PC/Mac</text>
+  <text x="710" y="148" font-family="Arial" font-size="10" fill="#FCD116" text-anchor="middle">Digi 24 ▶</text>
+  <rect x="650" y="170" width="120" height="8" rx="4" fill="#444"/>
+  <rect x="670" y="178" width="80" height="6" rx="3" fill="#333"/>
+  <!-- M3U file visualization -->
+  <rect x="50" y="250" width="700" height="155" rx="10" fill="white" stroke="#002B7F" stroke-width="2"/>
+  <rect x="50" y="250" width="700" height="35" rx="10" fill="#002B7F"/>
+  <rect x="50" y="270" width="700" height="15" fill="#002B7F"/>
+  <text x="400" y="274" font-family="Arial" font-size="14" fill="#FCD116" font-weight="bold" text-anchor="middle">Exemplu fișier M3U — Lista IPTV Romania</text>
+  <text x="70" y="305" font-family="Courier New" font-size="12" fill="#CE1126">#EXTM3U</text>
+  <text x="70" y="323" font-family="Courier New" font-size="11" fill="#002B7F">#EXTINF:-1 tvg-name="ProTV" group-title="Romania",ProTV HD</text>
+  <text x="70" y="341" font-family="Courier New" font-size="11" fill="#28a745">http://stream.romaniaiptv.tv/protv/live</text>
+  <text x="70" y="359" font-family="Courier New" font-size="11" fill="#002B7F">#EXTINF:-1 tvg-name="Antena 1" group-title="Romania",Antena 1 HD</text>
+  <text x="70" y="377" font-family="Courier New" font-size="11" fill="#28a745">http://stream.romaniaiptv.tv/antena1/live</text>
+  <text x="70" y="395" font-family="Courier New" font-size="11" fill="#666">... și 498 canale în plus · romaniaiptv.tv</text>
+</svg>
