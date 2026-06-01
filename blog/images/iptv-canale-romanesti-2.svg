@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <rect width="800" height="450" fill="#f8f9fa"/>
+  <!-- Background pattern -->
+  <rect width="800" height="450" fill="url(#bgGrad)"/>
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#002B7F" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#CE1126" stop-opacity="0.08"/>
+    </linearGradient>
+  </defs>
+  <!-- Main device - Smart TV -->
+  <rect x="150" y="80" width="500" height="290" rx="15" fill="#1a1a2e" stroke="#002B7F" stroke-width="3"/>
+  <rect x="165" y="95" width="470" height="260" rx="8" fill="#16213e"/>
+  <!-- Screen content: channel grid -->
+  <rect x="175" y="105" width="140" height="80" rx="5" fill="#002B7F" opacity="0.8"/>
+  <rect x="325" y="105" width="140" height="80" rx="5" fill="#CE1126" opacity="0.8"/>
+  <rect x="475" y="105" width="150" height="80" rx="5" fill="#FCD116" opacity="0.8"/>
+  <rect x="175" y="195" width="140" height="80" rx="5" fill="#0a3d62" opacity="0.8"/>
+  <rect x="325" y="195" width="140" height="80" rx="5" fill="#1e3799" opacity="0.8"/>
+  <rect x="475" y="195" width="150" height="80" rx="5" fill="#C0392B" opacity="0.8"/>
+  <!-- Channel labels -->
+  <text x="245" y="150" text-anchor="middle" font-family="Arial" font-size="13" font-weight="bold" fill="white">PRO TV</text>
+  <text x="395" y="150" text-anchor="middle" font-family="Arial" font-size="13" font-weight="bold" fill="white">Antena 1</text>
+  <text x="550" y="150" text-anchor="middle" font-family="Arial" font-size="13" font-weight="bold" fill="#002B7F">Digi 24</text>
+  <text x="245" y="240" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold" fill="white">TVR 1</text>
+  <text x="395" y="240" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold" fill="white">Kanal D</text>
+  <text x="550" y="240" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold" fill="white">B1 TV</text>
+  <!-- Bottom bar -->
+  <rect x="165" y="285" width="470" height="60" rx="4" fill="#0f0f1a"/>
+  <text x="400" y="320" text-anchor="middle" font-family="Arial" font-size="15" font-weight="bold" fill="#FCD116">🇷🇴 Romania IPTV — 200+ Canale HD</text>
+  <!-- TV stand -->
+  <rect x="365" y="370" width="70" height="18" rx="4" fill="#1a1a2e"/>
+  <rect x="320" y="385" width="160" height="14" rx="7" fill="#1a1a2e"/>
+  <!-- Title -->
+  <text x="400" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#002B7F">Canale Românești prin IPTV — RomaniaIPTV.tv</text>
+  <!-- Streaming icons -->
+  <circle cx="100" cy="200" r="35" fill="#002B7F" opacity="0.15"/>
+  <text x="100" y="207" text-anchor="middle" font-family="Arial" font-size="24" fill="#002B7F">📡</text>
+  <circle cx="700" cy="200" r="35" fill="#CE1126" opacity="0.15"/>
+  <text x="700" y="207" text-anchor="middle" font-family="Arial" font-size="24" fill="#CE1126">📺</text>
+</svg>
