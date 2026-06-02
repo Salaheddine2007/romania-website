@@ -167,8 +167,10 @@
     {
       "keyword": "smart iptv",
       "volume": 1300,
-      "status": "pending",
-      "kd": 29
+      "status": "done",
+      "kd": 29,
+      "posted_date": "2026-06-02",
+      "slug": "smart-iptv"
     },
     {
       "keyword": "iptv smarters pro",
