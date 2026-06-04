@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <rect width="800" height="450" fill="#f0f4ff"/>
+  <!-- TV Screen -->
+  <rect x="150" y="60" width="500" height="290" rx="18" ry="18" fill="#002B7F"/>
+  <rect x="170" y="80" width="460" height="250" rx="8" ry="8" fill="#0a1a3a"/>
+  <!-- App UI mockup -->
+  <rect x="185" y="95" width="200" height="220" rx="6" fill="#1a2a5a"/>
+  <!-- Sidebar items -->
+  <rect x="195" y="110" width="180" height="28" rx="4" fill="#FCD116" opacity="0.9"/>
+  <text x="285" y="129" font-family="system-ui,sans-serif" font-size="13" fill="#002B7F" text-anchor="middle" font-weight="bold">Live TV</text>
+  <rect x="195" y="146" width="180" height="28" rx="4" fill="#ffffff" opacity="0.1"/>
+  <text x="285" y="165" font-family="system-ui,sans-serif" font-size="13" fill="#ffffff" text-anchor="middle">Seriale</text>
+  <rect x="195" y="182" width="180" height="28" rx="4" fill="#ffffff" opacity="0.1"/>
+  <text x="285" y="201" font-family="system-ui,sans-serif" font-size="13" fill="#ffffff" text-anchor="middle">Filme</text>
+  <rect x="195" y="218" width="180" height="28" rx="4" fill="#ffffff" opacity="0.1"/>
+  <text x="285" y="237" font-family="system-ui,sans-serif" font-size="13" fill="#ffffff" text-anchor="middle">Sport</text>
+  <rect x="195" y="254" width="180" height="28" rx="4" fill="#ffffff" opacity="0.1"/>
+  <text x="285" y="273" font-family="system-ui,sans-serif" font-size="13" fill="#ffffff" text-anchor="middle">Canale Românești</text>
+  <!-- Channel grid -->
+  <rect x="395" y="95" width="225" height="220" rx="6" fill="#0e1f4a"/>
+  <rect x="402" y="102" width="100" height="60" rx="4" fill="#1e3a7a"/>
+  <text x="452" y="137" font-family="system-ui,sans-serif" font-size="11" fill="#FCD116" text-anchor="middle">PRO TV</text>
+  <rect x="510" y="102" width="100" height="60" rx="4" fill="#1e3a7a"/>
+  <text x="560" y="137" font-family="system-ui,sans-serif" font-size="11" fill="#FCD116" text-anchor="middle">Antena 1</text>
+  <rect x="402" y="170" width="100" height="60" rx="4" fill="#1e3a7a"/>
+  <text x="452" y="205" font-family="system-ui,sans-serif" font-size="11" fill="#FCD116" text-anchor="middle">Digi Sport</text>
+  <rect x="510" y="170" width="100" height="60" rx="4" fill="#1e3a7a"/>
+  <text x="560" y="205" font-family="system-ui,sans-serif" font-size="11" fill="#FCD116" text-anchor="middle">TVR 1</text>
+  <rect x="402" y="238" width="100" height="60" rx="4" fill="#CE1126" opacity="0.8"/>
+  <text x="452" y="265" font-family="system-ui,sans-serif" font-size="10" fill="#ffffff" text-anchor="middle">▶ În direct</text>
+  <text x="452" y="282" font-family="system-ui,sans-serif" font-size="9" fill="#ffffff" text-anchor="middle">România TV</text>
+  <rect x="510" y="238" width="100" height="60" rx="4" fill="#1e3a7a"/>
+  <text x="560" y="270" font-family="system-ui,sans-serif" font-size="11" fill="#FCD116" text-anchor="middle">Kanal D</text>
+  <!-- TV Stand -->
+  <rect x="340" y="350" width="120" height="15" rx="4" fill="#002B7F" opacity="0.7"/>
+  <rect x="370" y="350" width="60" height="40" rx="0" fill="#002B7F" opacity="0.5"/>
+  <rect x="300" y="390" width="200" height="12" rx="6" fill="#002B7F" opacity="0.4"/>
+  <!-- Title -->
+  <text x="400" y="430" font-family="system-ui,sans-serif" font-size="18" fill="#002B7F" text-anchor="middle" font-weight="bold">IPTV Smarters — Player pentru Canale Românești</text>
+</svg>
