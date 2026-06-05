@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <rect width="800" height="450" fill="#fff8e7"/>
+  <!-- TV Screen -->
+  <rect x="120" y="60" width="420" height="270" rx="12" fill="#002B7F" stroke="#001a50" stroke-width="4"/>
+  <rect x="132" y="72" width="396" height="246" rx="6" fill="#0a0a2a"/>
+  <!-- TV Stand -->
+  <rect x="290" y="330" width="100" height="16" rx="4" fill="#002B7F"/>
+  <rect x="260" y="346" width="160" height="10" rx="5" fill="#001a50"/>
+  <!-- Screen - EPG Guide -->
+  <rect x="132" y="72" width="396" height="40" fill="#001a50"/>
+  <text x="150" y="98" font-family="system-ui,Arial" font-size="16" fill="#FCD116" font-weight="bold">&#9654; PRO TV HD  |  Stiri de la ora 19:00</text>
+  <!-- EPG rows -->
+  <rect x="132" y="116" width="100" height="200" fill="#0d2260"/>
+  <text x="140" y="136" font-family="system-ui,Arial" font-size="10" fill="#FCD116">CANALE</text>
+  <rect x="140" y="142" width="84" height="28" rx="3" fill="#CE1126"/>
+  <text x="152" y="161" font-family="system-ui,Arial" font-size="11" fill="white">PRO TV</text>
+  <rect x="140" y="174" width="84" height="28" rx="3" fill="#0a1a3a"/>
+  <text x="148" y="193" font-family="system-ui,Arial" font-size="11" fill="white">Antena 1</text>
+  <rect x="140" y="206" width="84" height="28" rx="3" fill="#0a1a3a"/>
+  <text x="155" y="225" font-family="system-ui,Arial" font-size="11" fill="white">Digi24</text>
+  <rect x="140" y="238" width="84" height="28" rx="3" fill="#0a1a3a"/>
+  <text x="155" y="257" font-family="system-ui,Arial" font-size="11" fill="white">TVR 1</text>
+  <rect x="140" y="270" width="84" height="28" rx="3" fill="#0a1a3a"/>
+  <text x="148" y="289" font-family="system-ui,Arial" font-size="11" fill="white">Kanal D</text>
+  <!-- Time grid -->
+  <rect x="236" y="116" width="292" height="200" fill="#0a0a2a"/>
+  <rect x="236" y="116" width="292" height="20" fill="#001a50"/>
+  <text x="248" y="131" font-family="system-ui,Arial" font-size="9" fill="#aaa">19:00</text>
+  <text x="308" y="131" font-family="system-ui,Arial" font-size="9" fill="#aaa">20:00</text>
+  <text x="368" y="131" font-family="system-ui,Arial" font-size="9" fill="#aaa">21:00</text>
+  <text x="428" y="131" font-family="system-ui,Arial" font-size="9" fill="#aaa">22:00</text>
+  <text x="490" y="131" font-family="system-ui,Arial" font-size="9" fill="#aaa">23:00</text>
+  <!-- Program blocks -->
+  <rect x="236" y="142" width="100" height="28" rx="2" fill="#CE1126"/>
+  <text x="244" y="161" font-family="system-ui,Arial" font-size="9" fill="white">Stiri PRO TV</text>
+  <rect x="340" y="142" width="120" height="28" rx="2" fill="#1a3a8a"/>
+  <text x="348" y="161" font-family="system-ui,Arial" font-size="9" fill="white">PRO TV Sport</text>
+  <rect x="464" y="142" width="64" height="28" rx="2" fill="#1a3a8a"/>
+  <text x="470" y="161" font-family="system-ui,Arial" font-size="9" fill="white">Film HD</text>
+  <rect x="236" y="174" width="80" height="28" rx="2" fill="#2a4a9a"/>
+  <text x="244" y="193" font-family="system-ui,Arial" font-size="9" fill="white">Observator</text>
+  <rect x="320" y="174" width="140" height="28" rx="2" fill="#1a3a8a"/>
+  <text x="328" y="193" font-family="system-ui,Arial" font-size="9" fill="white">Antena 1 - Serial</text>
+  <!-- Labels -->
+  <text x="580" y="110" font-family="system-ui,Arial" font-size="20" fill="#002B7F" font-weight="bold">Ghid TV</text>
+  <text x="580" y="135" font-family="system-ui,Arial" font-size="20" fill="#002B7F" font-weight="bold">Electronic</text>
+  <text x="580" y="165" font-family="system-ui,Arial" font-size="13" fill="#555">EPG complet</text>
+  <text x="580" y="185" font-family="system-ui,Arial" font-size="13" fill="#555">pentru canale</text>
+  <text x="580" y="205" font-family="system-ui,Arial" font-size="13" fill="#555">românești</text>
+  <rect x="570" y="225" width="190" height="40" rx="8" fill="#002B7F"/>
+  <text x="590" y="250" font-family="system-ui,Arial" font-size="14" fill="#FCD116" font-weight="bold">romaniaiptv.tv</text>
+  <!-- Bottom text -->
+  <text x="160" y="410" font-family="system-ui,Arial" font-size="14" fill="#002B7F">IPTV Smarters Player – Configurare rapidă cu orice abonament IPTV</text>
+</svg>
