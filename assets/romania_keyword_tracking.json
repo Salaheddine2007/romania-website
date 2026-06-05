@@ -199,8 +199,10 @@
     {
       "keyword": "xtream iptv",
       "volume": 90,
-      "status": "pending",
-      "kd": 31
+      "status": "done",
+      "kd": 31,
+      "posted_date": "2026-06-05",
+      "url": "https://romaniaiptv.tv/blog/xtream-iptv/"
     },
     {
       "keyword": "playlist iptv",
