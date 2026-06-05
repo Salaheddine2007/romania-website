@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <rect width="800" height="450" fill="#002B7F"/>
+  <rect x="60" y="60" width="500" height="320" rx="18" fill="#0a3d9e"/>
+  <rect x="80" y="80" width="460" height="260" rx="8" fill="#001a5c"/>
+  <!-- Screen content lines -->
+  <rect x="100" y="105" width="200" height="12" rx="6" fill="#FCD116" opacity="0.9"/>
+  <rect x="100" y="128" width="320" height="8" rx="4" fill="white" opacity="0.4"/>
+  <rect x="100" y="148" width="280" height="8" rx="4" fill="white" opacity="0.3"/>
+  <rect x="100" y="170" width="340" height="8" rx="4" fill="white" opacity="0.3"/>
+  <!-- Play icon -->
+  <circle cx="420" cy="210" r="50" fill="#FCD116" opacity="0.15"/>
+  <circle cx="420" cy="210" r="40" fill="none" stroke="#FCD116" stroke-width="3"/>
+  <polygon points="408,193 408,227 440,210" fill="#FCD116"/>
+  <!-- Channel list -->
+  <rect x="100" y="200" width="180" height="90" rx="6" fill="#002B7F" opacity="0.6"/>
+  <rect x="112" y="212" width="100" height="7" rx="3" fill="white" opacity="0.7"/>
+  <rect x="112" y="228" width="120" height="7" rx="3" fill="#FCD116" opacity="0.8"/>
+  <rect x="112" y="244" width="90" height="7" rx="3" fill="white" opacity="0.5"/>
+  <rect x="112" y="260" width="110" height="7" rx="3" fill="white" opacity="0.5"/>
+  <!-- TV stand -->
+  <rect x="230" y="380" width="120" height="12" rx="6" fill="#0a3d9e"/>
+  <rect x="270" y="380" width="40" height="20" rx="4" fill="#0a3d9e"/>
+  <!-- Label -->
+  <text x="600" y="200" font-family="system-ui,sans-serif" font-size="32" font-weight="bold" fill="#FCD116" text-anchor="middle">Xtream</text>
+  <text x="600" y="240" font-family="system-ui,sans-serif" font-size="28" font-weight="bold" fill="white" text-anchor="middle">IPTV</text>
+  <text x="600" y="280" font-family="system-ui,sans-serif" font-size="16" fill="#FCD116" text-anchor="middle" opacity="0.8">Streaming Romania</text>
+  <!-- Romanian flag accent -->
+  <rect x="560" y="310" width="24" height="40" rx="2" fill="#002B7F"/>
+  <rect x="584" y="310" width="24" height="40" rx="2" fill="#FCD116"/>
+  <rect x="608" y="310" width="24" height="40" rx="2" fill="#CE1126"/>
+  <text x="650" y="340" font-family="system-ui,sans-serif" font-size="13" fill="white" opacity="0.7">romaniaiptv.tv</text>
+</svg>
