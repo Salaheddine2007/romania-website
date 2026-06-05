@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <rect width="800" height="450" fill="#f0f4ff"/>
+  <!-- Phone frame -->
+  <rect x="280" y="40" width="240" height="370" rx="24" fill="#002B7F"/>
+  <rect x="292" y="68" width="216" height="310" rx="6" fill="#0a1a3a"/>
+  <!-- Screen content - IPTV app UI -->
+  <rect x="292" y="68" width="216" height="40" fill="#001a50"/>
+  <text x="310" y="93" font-family="system-ui,Arial" font-size="14" fill="#FCD116" font-weight="bold">IPTV Smarters Player</text>
+  <!-- Channel list -->
+  <rect x="296" y="112" width="208" height="36" rx="4" fill="#0d2260"/>
+  <rect x="302" y="120" width="20" height="20" rx="3" fill="#CE1126"/>
+  <text x="328" y="134" font-family="system-ui,Arial" font-size="11" fill="white">PRO TV HD</text>
+  <rect x="296" y="152" width="208" height="36" rx="4" fill="#0a1a3a"/>
+  <rect x="302" y="160" width="20" height="20" rx="3" fill="#002B7F"/>
+  <text x="328" y="174" font-family="system-ui,Arial" font-size="11" fill="white">Antena 1 HD</text>
+  <rect x="296" y="192" width="208" height="36" rx="4" fill="#0d2260"/>
+  <rect x="302" y="200" width="20" height="20" rx="3" fill="#FCD116"/>
+  <text x="328" y="214" font-family="system-ui,Arial" font-size="11" fill="white">Digi24 HD</text>
+  <rect x="296" y="232" width="208" height="36" rx="4" fill="#0a1a3a"/>
+  <rect x="302" y="240" width="20" height="20" rx="3" fill="#CE1126"/>
+  <text x="328" y="254" font-family="system-ui,Arial" font-size="11" fill="white">TVR1 HD</text>
+  <rect x="296" y="272" width="208" height="36" rx="4" fill="#0d2260"/>
+  <rect x="302" y="280" width="20" height="20" rx="3" fill="#002B7F"/>
+  <text x="328" y="294" font-family="system-ui,Arial" font-size="11" fill="white">Kanal D HD</text>
+  <rect x="296" y="312" width="208" height="36" rx="4" fill="#0a1a3a"/>
+  <rect x="302" y="320" width="20" height="20" rx="3" fill="#FCD116"/>
+  <text x="328" y="334" font-family="system-ui,Arial" font-size="11" fill="white">Antena 3 HD</text>
+  <!-- Bottom nav -->
+  <rect x="292" y="348" width="216" height="30" fill="#001a50"/>
+  <text x="320" y="368" font-family="system-ui,Arial" font-size="10" fill="#FCD116">&#9776; Canale</text>
+  <text x="380" y="368" font-family="system-ui,Arial" font-size="10" fill="white">&#9654; Live</text>
+  <text x="430" y="368" font-family="system-ui,Arial" font-size="10" fill="white">&#9201; EPG</text>
+  <!-- Home button -->
+  <circle cx="400" cy="420" r="12" fill="#1a3a7a"/>
+  <!-- Labels outside phone -->
+  <text x="60" y="180" font-family="system-ui,Arial" font-size="22" fill="#002B7F" font-weight="bold">IPTV Smarters</text>
+  <text x="60" y="208" font-family="system-ui,Arial" font-size="22" fill="#002B7F" font-weight="bold">Player</text>
+  <text x="60" y="240" font-family="system-ui,Arial" font-size="14" fill="#444">Canale românești HD</text>
+  <text x="60" y="262" font-family="system-ui,Arial" font-size="14" fill="#444">oriunde în lume</text>
+  <!-- Play button icon -->
+  <circle cx="100" cy="320" r="30" fill="#002B7F"/>
+  <polygon points="90,308 90,332 118,320" fill="#FCD116"/>
+  <!-- Right side labels -->
+  <text x="545" y="150" font-family="system-ui,Arial" font-size="13" fill="#002B7F">&#10003; Android &amp; iOS</text>
+  <text x="545" y="175" font-family="system-ui,Arial" font-size="13" fill="#002B7F">&#10003; Smart TV</text>
+  <text x="545" y="200" font-family="system-ui,Arial" font-size="13" fill="#002B7F">&#10003; Windows PC</text>
+  <text x="545" y="225" font-family="system-ui,Arial" font-size="13" fill="#002B7F">&#10003; EPG integrat</text>
+  <text x="545" y="250" font-family="system-ui,Arial" font-size="13" fill="#002B7F">&#10003; Catch-up TV</text>
+  <text x="545" y="275" font-family="system-ui,Arial" font-size="13" fill="#CE1126">&#128990; romaniaiptv.tv</text>
+</svg>
