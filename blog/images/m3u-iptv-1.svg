@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <rect width="800" height="450" fill="#002B7F"/>
+  <rect x="100" y="80" width="600" height="340" rx="10" fill="#001a5c" stroke="#FCD116" stroke-width="2"/>
+  <rect x="120" y="100" width="560" height="220" rx="5" fill="#0a1a3c"/>
+  <text x="400" y="200" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#FCD116" text-anchor="middle">M3U IPTV</text>
+  <text x="400" y="245" font-family="Arial, sans-serif" font-size="18" fill="#ffffff" text-anchor="middle">Playlist Romania - Canale HD</text>
+  <rect x="140" y="270" width="80" height="8" rx="4" fill="#CE1126"/>
+  <rect x="240" y="270" width="120" height="8" rx="4" fill="#FCD116"/>
+  <rect x="380" y="270" width="200" height="8" rx="4" fill="#ffffff" opacity="0.5"/>
+  <rect x="140" y="295" width="150" height="8" rx="4" fill="#CE1126"/>
+  <rect x="310" y="295" width="90" height="8" rx="4" fill="#FCD116"/>
+  <rect x="420" y="295" width="160" height="8" rx="4" fill="#ffffff" opacity="0.3"/>
+  <circle cx="160" cy="370" r="20" fill="#CE1126"/>
+  <circle cx="210" cy="370" r="20" fill="#FCD116"/>
+  <circle cx="260" cy="370" r="20" fill="#002B7F" stroke="#FCD116" stroke-width="2"/>
+  <text x="450" y="375" font-family="Arial, sans-serif" font-size="14" fill="#ffffff" opacity="0.7">romaniaiptv.tv</text>
+</svg>
