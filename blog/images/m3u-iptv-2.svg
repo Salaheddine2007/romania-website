@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <rect width="800" height="450" fill="#f8f9fa"/>
+  <rect x="0" y="0" width="800" height="60" fill="#002B7F"/>
+  <text x="400" y="38" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#FCD116" text-anchor="middle">Romania IPTV – Playlist M3U</text>
+  <rect x="50" y="90" width="700" height="50" rx="8" fill="#002B7F" opacity="0.1"/>
+  <text x="80" y="122" font-family="monospace" font-size="14" fill="#002B7F">#EXTM3U</text>
+  <rect x="50" y="155" width="700" height="40" rx="4" fill="#e8f0fe"/>
+  <text x="80" y="180" font-family="monospace" font-size="13" fill="#CE1126">#EXTINF:-1,PRO TV HD</text>
+  <rect x="50" y="205" width="700" height="40" rx="4" fill="#fff8e1"/>
+  <text x="80" y="230" font-family="monospace" font-size="13" fill="#002B7F">http://romaniaiptv.tv/stream/protv</text>
+  <rect x="50" y="255" width="700" height="40" rx="4" fill="#e8f0fe"/>
+  <text x="80" y="280" font-family="monospace" font-size="13" fill="#CE1126">#EXTINF:-1,Antena 1 HD</text>
+  <rect x="50" y="305" width="700" height="40" rx="4" fill="#fff8e1"/>
+  <text x="80" y="330" font-family="monospace" font-size="13" fill="#002B7F">http://romaniaiptv.tv/stream/antena1</text>
+  <rect x="50" y="355" width="700" height="40" rx="4" fill="#e8f0fe"/>
+  <text x="80" y="380" font-family="monospace" font-size="13" fill="#CE1126">#EXTINF:-1,Digi Sport 1 HD</text>
+  <rect x="0" y="410" width="800" height="40" fill="#FCD116"/>
+  <text x="400" y="435" font-family="Arial, sans-serif" font-size="14" fill="#002B7F" text-anchor="middle" font-weight="bold">romaniaiptv.tv – Cea mai buna lista M3U IPTV Romania</text>
+</svg>
