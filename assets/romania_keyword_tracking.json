@@ -207,8 +207,10 @@
     {
       "keyword": "playlist iptv",
       "volume": 210,
-      "status": "pending",
-      "kd": 29
+      "status": "done",
+      "kd": 29,
+      "posted_date": "2026-06-07",
+      "url": "https://romaniaiptv.tv/blog/playlist-iptv/"
     },
     {
       "keyword": "m3u iptv",
