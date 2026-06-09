@@ -1,0 +1,40 @@
+<svg width="800" height="450" viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="450" fill="#002B7F"/>
+  <rect x="80" y="60" width="560" height="320" rx="20" fill="#1a3a8f"/>
+  <rect x="110" y="90" width="500" height="260" rx="8" fill="#0a1f5c"/>
+  <!-- TV screen content -->
+  <rect x="120" y="100" width="480" height="240" rx="4" fill="#111"/>
+  <!-- M3U playlist visualization -->
+  <rect x="140" y="115" width="160" height="200" rx="4" fill="#1e2d5a"/>
+  <text x="150" y="140" fill="#FCD116" font-family="Arial" font-size="13" font-weight="bold">M3U Playlist</text>
+  <rect x="145" y="150" width="145" height="18" rx="3" fill="#002B7F"/>
+  <text x="152" y="163" fill="#fff" font-family="Arial" font-size="11">▶ Pro TV HD</text>
+  <rect x="145" y="173" width="145" height="18" rx="3" fill="#FCD116" opacity="0.2"/>
+  <text x="152" y="186" fill="#FCD116" font-family="Arial" font-size="11">▶ Antena 1 HD</text>
+  <rect x="145" y="196" width="145" height="18" rx="3" fill="#002B7F"/>
+  <text x="152" y="209" fill="#fff" font-family="Arial" font-size="11">▶ Digi 24 HD</text>
+  <rect x="145" y="219" width="145" height="18" rx="3" fill="#002B7F"/>
+  <text x="152" y="232" fill="#fff" font-family="Arial" font-size="11">▶ TVR 1 HD</text>
+  <rect x="145" y="242" width="145" height="18" rx="3" fill="#002B7F"/>
+  <text x="152" y="255" fill="#fff" font-family="Arial" font-size="11">▶ Kanal D HD</text>
+  <rect x="145" y="265" width="145" height="18" rx="3" fill="#002B7F"/>
+  <text x="152" y="278" fill="#fff" font-family="Arial" font-size="11">▶ Romania TV HD</text>
+  <rect x="145" y="288" width="145" height="18" rx="3" fill="#002B7F"/>
+  <text x="152" y="301" fill="#fff" font-family="Arial" font-size="11">▶ Antena 3 HD</text>
+  <!-- Main content area -->
+  <rect x="315" y="115" width="275" height="200" rx="4" fill="#1a1a2e"/>
+  <text x="330" y="145" fill="#FCD116" font-family="Arial" font-size="16" font-weight="bold">M3U IPTV Romania</text>
+  <text x="330" y="168" fill="#fff" font-family="Arial" font-size="12">🇷🇴 200+ Canale Românești</text>
+  <text x="330" y="190" fill="#ccc" font-family="Arial" font-size="11">HD • FHD • 4K</text>
+  <text x="330" y="215" fill="#ccc" font-family="Arial" font-size="11">Pro TV • Antena • Digi</text>
+  <text x="330" y="237" fill="#ccc" font-family="Arial" font-size="11">TVR • Kanal D • România TV</text>
+  <rect x="330" y="260" width="120" height="32" rx="6" fill="#FCD116"/>
+  <text x="358" y="281" fill="#002B7F" font-family="Arial" font-size="13" font-weight="bold">Abonează-te</text>
+  <!-- Romania flag colors strip -->
+  <rect x="110" y="358" width="167" height="8" fill="#002B7F"/>
+  <rect x="277" y="358" width="166" height="8" fill="#FCD116"/>
+  <rect x="443" y="358" width="167" height="8" fill="#CE1126"/>
+  <!-- Bottom label -->
+  <text x="400" y="405" fill="#FCD116" font-family="Arial" font-size="18" font-weight="bold" text-anchor="middle">romaniaiptv.tv</text>
+  <text x="400" y="430" fill="#8899cc" font-family="Arial" font-size="12" text-anchor="middle">Lista M3U IPTV Romania – Canale Românești Online</text>
+</svg>
