@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <rect width="800" height="450" fill="#002B7F"/>
+  <rect x="80" y="60" width="640" height="360" rx="12" fill="#001a5c" stroke="#FCD116" stroke-width="2"/>
+  <!-- Screen -->
+  <rect x="100" y="80" width="420" height="240" rx="6" fill="#0a1a3c"/>
+  <text x="310" y="185" font-family="Arial, sans-serif" font-size="38" font-weight="bold" fill="#FCD116" text-anchor="middle">IPTV</text>
+  <text x="310" y="228" font-family="Arial, sans-serif" font-size="20" fill="#ffffff" text-anchor="middle">Playlist Romania</text>
+  <rect x="120" y="255" width="380" height="4" rx="2" fill="#CE1126"/>
+  <text x="310" y="290" font-family="Arial, sans-serif" font-size="14" fill="#ffffff" opacity="0.6" text-anchor="middle">HD · Full HD · 4K</text>
+  <!-- Playlist sidebar -->
+  <rect x="540" y="80" width="160" height="240" rx="6" fill="#0d2266"/>
+  <text x="620" y="110" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#FCD116" text-anchor="middle">CANALE</text>
+  <rect x="555" y="120" width="130" height="22" rx="3" fill="#CE1126"/>
+  <text x="620" y="135" font-family="Arial, sans-serif" font-size="11" fill="#fff" text-anchor="middle">PRO TV HD</text>
+  <rect x="555" y="148" width="130" height="22" rx="3" fill="#001a5c" stroke="#FCD116" stroke-width="1"/>
+  <text x="620" y="163" font-family="Arial, sans-serif" font-size="11" fill="#fff" text-anchor="middle">ANTENA 1 HD</text>
+  <rect x="555" y="176" width="130" height="22" rx="3" fill="#001a5c"/>
+  <text x="620" y="191" font-family="Arial, sans-serif" font-size="11" fill="#fff" opacity="0.8" text-anchor="middle">DIGI24</text>
+  <rect x="555" y="204" width="130" height="22" rx="3" fill="#001a5c"/>
+  <text x="620" y="219" font-family="Arial, sans-serif" font-size="11" fill="#fff" opacity="0.8" text-anchor="middle">KANAL D HD</text>
+  <rect x="555" y="232" width="130" height="22" rx="3" fill="#001a5c"/>
+  <text x="620" y="247" font-family="Arial, sans-serif" font-size="11" fill="#fff" opacity="0.8" text-anchor="middle">TVR 1 HD</text>
+  <rect x="555" y="260" width="130" height="22" rx="3" fill="#001a5c"/>
+  <text x="620" y="275" font-family="Arial, sans-serif" font-size="11" fill="#fff" opacity="0.6" text-anchor="middle">+ 200 canale</text>
+  <!-- Bottom bar -->
+  <rect x="100" y="340" width="600" height="60" rx="6" fill="#0d2266"/>
+  <circle cx="140" cy="370" r="18" fill="#CE1126"/>
+  <text x="140" y="375" font-family="Arial, sans-serif" font-size="16" fill="#fff" text-anchor="middle">&#9654;</text>
+  <rect x="175" y="362" width="400" height="4" rx="2" fill="#ffffff" opacity="0.2"/>
+  <rect x="175" y="362" width="160" height="4" rx="2" fill="#FCD116"/>
+  <text x="610" y="375" font-family="Arial, sans-serif" font-size="12" fill="#fff" opacity="0.6">romaniaiptv.tv</text>
+</svg>
