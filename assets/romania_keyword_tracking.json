@@ -268,8 +268,10 @@
     {
       "keyword": "free iptv",
       "volume": 110,
-      "status": "pending",
-      "kd": 39
+      "status": "done",
+      "kd": 39,
+      "posted_date": "2026-06-12",
+      "url": "https://romaniaiptv.tv/blog/free-iptv/"
     },
     {
       "keyword": "iptv installation",
