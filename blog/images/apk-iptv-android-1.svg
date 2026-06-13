@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#002B7F;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#0047CC;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="phone" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#16213e;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg)"/>
+  <!-- Phone body -->
+  <rect x="270" y="40" width="260" height="380" rx="30" ry="30" fill="url(#phone)" stroke="#FCD116" stroke-width="3"/>
+  <!-- Screen -->
+  <rect x="285" y="70" width="230" height="320" rx="8" ry="8" fill="#0f0f23"/>
+  <!-- Status bar -->
+  <rect x="285" y="70" width="230" height="22" rx="8" ry="8" fill="#002B7F"/>
+  <!-- App grid -->
+  <rect x="300" y="105" width="60" height="55" rx="12" fill="#CE1126"/>
+  <text x="330" y="138" text-anchor="middle" fill="white" font-size="11" font-family="system-ui" font-weight="bold">IPTV</text>
+  <text x="330" y="150" text-anchor="middle" fill="white" font-size="9" font-family="system-ui">Smarters</text>
+  <rect x="375" y="105" width="60" height="55" rx="12" fill="#FCD116"/>
+  <text x="405" y="138" text-anchor="middle" fill="#002B7F" font-size="11" font-family="system-ui" font-weight="bold">GSE</text>
+  <text x="405" y="150" text-anchor="middle" fill="#002B7F" font-size="9" font-family="system-ui">IPTV</text>
+  <rect x="450" y="105" width="60" height="55" rx="12" fill="#002B7F"/>
+  <text x="480" y="138" text-anchor="middle" fill="white" font-size="10" font-family="system-ui" font-weight="bold">Tivi</text>
+  <text x="480" y="150" text-anchor="middle" fill="white" font-size="9" font-family="system-ui">Mate</text>
+  <!-- Channel list -->
+  <rect x="300" y="175" width="210" height="30" rx="6" fill="#1a1a4e"/>
+  <rect x="308" y="183" width="24" height="14" rx="3" fill="#CE1126"/>
+  <text x="318" y="193" text-anchor="middle" fill="white" font-size="7" font-family="system-ui" font-weight="bold">RO</text>
+  <text x="350" y="193" fill="white" font-size="11" font-family="system-ui">Pro TV</text>
+  <rect x="300" y="212" width="210" height="30" rx="6" fill="#1a1a4e"/>
+  <rect x="308" y="220" width="24" height="14" rx="3" fill="#CE1126"/>
+  <text x="318" y="230" text-anchor="middle" fill="white" font-size="7" font-family="system-ui" font-weight="bold">RO</text>
+  <text x="350" y="230" fill="white" font-size="11" font-family="system-ui">Antena 1</text>
+  <rect x="300" y="249" width="210" height="30" rx="6" fill="#1a1a4e"/>
+  <rect x="308" y="257" width="24" height="14" rx="3" fill="#CE1126"/>
+  <text x="318" y="267" text-anchor="middle" fill="white" font-size="7" font-family="system-ui" font-weight="bold">RO</text>
+  <text x="350" y="267" fill="white" font-size="11" font-family="system-ui">Digi TV</text>
+  <!-- Download button -->
+  <rect x="310" y="295" width="180" height="40" rx="20" fill="#FCD116"/>
+  <text x="400" y="320" text-anchor="middle" fill="#002B7F" font-size="14" font-family="system-ui" font-weight="bold">&#9660; Install APK</text>
+  <!-- Home button -->
+  <circle cx="400" cy="400" r="12" fill="none" stroke="#444" stroke-width="2"/>
+  <!-- Left text -->
+  <text x="40" y="140" fill="white" font-size="28" font-family="system-ui" font-weight="bold">APK IPTV</text>
+  <text x="40" y="175" fill="#FCD116" font-size="22" font-family="system-ui" font-weight="bold">Android</text>
+  <text x="40" y="215" fill="rgba(255,255,255,0.85)" font-size="14" font-family="system-ui">Canale românești</text>
+  <text x="40" y="240" fill="rgba(255,255,255,0.85)" font-size="14" font-family="system-ui">pe telefon</text>
+  <text x="40" y="290" fill="rgba(255,255,255,0.6)" font-size="12" font-family="system-ui">RomaniaIPTV.tv</text>
+</svg>
