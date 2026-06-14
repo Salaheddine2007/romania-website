@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <defs>
+    <linearGradient id="bg1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#002B7F;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#0047CC;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="screen1" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d0d2b;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#111133;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg1)"/>
+  <!-- Decorative circles -->
+  <circle cx="100" cy="80" r="120" fill="#0047CC" opacity="0.3"/>
+  <circle cx="700" cy="370" r="100" fill="#001a5e" opacity="0.4"/>
+  <!-- Left text -->
+  <text x="60" y="160" fill="#FCD116" font-size="28" font-family="system-ui" font-weight="800">IPTV App</text>
+  <text x="60" y="195" fill="white" font-size="16" font-family="system-ui">Canale românești</text>
+  <text x="60" y="218" fill="white" font-size="16" font-family="system-ui">pe orice dispozitiv</text>
+  <text x="60" y="260" fill="#FCD116" font-size="13" font-family="system-ui">✓ Pro TV  ✓ Antena 1</text>
+  <text x="60" y="282" fill="#FCD116" font-size="13" font-family="system-ui">✓ Digi 24  ✓ TVR 1</text>
+  <text x="60" y="304" fill="#FCD116" font-size="13" font-family="system-ui">✓ Kanal D  ✓ Prima TV</text>
+  <!-- Smartphone -->
+  <rect x="430" y="30" width="200" height="390" rx="28" ry="28" fill="#1a1a2e" stroke="#FCD116" stroke-width="2.5"/>
+  <!-- Screen -->
+  <rect x="445" y="55" width="170" height="330" rx="6" fill="url(#screen1)"/>
+  <!-- Status bar -->
+  <rect x="445" y="55" width="170" height="20" rx="4" fill="#002B7F"/>
+  <text x="530" y="69" text-anchor="middle" fill="white" font-size="9" font-family="system-ui">Romania IPTV</text>
+  <!-- App header -->
+  <rect x="445" y="75" width="170" height="30" fill="#001a5e"/>
+  <text x="530" y="95" text-anchor="middle" fill="#FCD116" font-size="12" font-family="system-ui" font-weight="bold">📺 Canale Live</text>
+  <!-- Channel rows -->
+  <rect x="452" y="112" width="156" height="28" rx="5" fill="#1a1a4e"/>
+  <rect x="458" y="117" width="22" height="14" rx="3" fill="#CE1126"/>
+  <text x="469" y="127" text-anchor="middle" fill="white" font-size="7" font-weight="bold" font-family="system-ui">RO</text>
+  <text x="492" y="129" fill="white" font-size="11" font-family="system-ui" font-weight="bold">Pro TV</text>
+  <circle cx="592" cy="126" r="6" fill="#00cc44"/>
+
+  <rect x="452" y="145" width="156" height="28" rx="5" fill="#1a1a4e"/>
+  <rect x="458" y="150" width="22" height="14" rx="3" fill="#CE1126"/>
+  <text x="469" y="160" text-anchor="middle" fill="white" font-size="7" font-weight="bold" font-family="system-ui">RO</text>
+  <text x="492" y="162" fill="white" font-size="11" font-family="system-ui" font-weight="bold">Antena 1</text>
+  <circle cx="592" cy="159" r="6" fill="#00cc44"/>
+
+  <rect x="452" y="178" width="156" height="28" rx="5" fill="#252550"/>
+  <rect x="458" y="183" width="22" height="14" rx="3" fill="#CE1126"/>
+  <text x="469" y="193" text-anchor="middle" fill="white" font-size="7" font-weight="bold" font-family="system-ui">RO</text>
+  <text x="492" y="195" fill="white" font-size="11" font-family="system-ui">Digi 24</text>
+  <circle cx="592" cy="192" r="6" fill="#00cc44"/>
+
+  <rect x="452" y="211" width="156" height="28" rx="5" fill="#1a1a4e"/>
+  <rect x="458" y="216" width="22" height="14" rx="3" fill="#CE1126"/>
+  <text x="469" y="226" text-anchor="middle" fill="white" font-size="7" font-weight="bold" font-family="system-ui">RO</text>
+  <text x="492" y="228" fill="white" font-size="11" font-family="system-ui">TVR 1</text>
+  <circle cx="592" cy="225" r="6" fill="#ffaa00"/>
+
+  <rect x="452" y="244" width="156" height="28" rx="5" fill="#1a1a4e"/>
+  <rect x="458" y="249" width="22" height="14" rx="3" fill="#CE1126"/>
+  <text x="469" y="259" text-anchor="middle" fill="white" font-size="7" font-weight="bold" font-family="system-ui">RO</text>
+  <text x="492" y="261" fill="white" font-size="11" font-family="system-ui">Kanal D</text>
+  <circle cx="592" cy="258" r="6" fill="#00cc44"/>
+
+  <rect x="452" y="277" width="156" height="28" rx="5" fill="#1a1a4e"/>
+  <rect x="458" y="282" width="22" height="14" rx="3" fill="#CE1126"/>
+  <text x="469" y="292" text-anchor="middle" fill="white" font-size="7" font-weight="bold" font-family="system-ui">RO</text>
+  <text x="492" y="294" fill="white" font-size="11" font-family="system-ui">Prima TV</text>
+  <circle cx="592" cy="291" r="6" fill="#00cc44"/>
+
+  <!-- Bottom nav bar -->
+  <rect x="445" y="355" width="170" height="30" rx="4" fill="#001a5e"/>
+  <text x="475" y="375" text-anchor="middle" fill="white" font-size="14" font-family="system-ui">🏠</text>
+  <text x="510" y="375" text-anchor="middle" fill="white" font-size="14" font-family="system-ui">📋</text>
+  <text x="545" y="375" text-anchor="middle" fill="white" font-size="14" font-family="system-ui">🔍</text>
+  <text x="580" y="375" text-anchor="middle" fill="white" font-size="14" font-family="system-ui">⚙️</text>
+  <!-- Home button -->
+  <circle cx="530" cy="405" r="12" fill="none" stroke="#444" stroke-width="2"/>
+  <!-- Romania flag badge -->
+  <rect x="650" y="310" width="80" height="50" rx="10" fill="#002B7F" stroke="#FCD116" stroke-width="2"/>
+  <rect x="654" y="314" width="24" height="42" rx="3" fill="#002B7F"/>
+  <rect x="678" y="314" width="24" height="42" rx="2" fill="#FCD116"/>
+  <rect x="702" y="314" width="24" height="42" rx="3" fill="#CE1126"/>
+  <text x="690" y="344" text-anchor="middle" fill="white" font-size="9" font-family="system-ui" font-weight="bold">RO</text>
+</svg>
