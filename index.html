@@ -34,8 +34,9 @@
   <link rel="icon" type="image/webp" href="assets/favicon.webp" />
   <link rel="apple-touch-icon" href="assets/favicon.webp" />
 
-  <!-- Preload LCP logo -->
+  <!-- Preload LCP assets -->
   <link rel="preload" as="image" href="assets/logo.webp" fetchpriority="high" />
+  <link rel="preload" as="image" href="assets/aflam/Artboard-1.webp" />
 
   <!-- Preconnect + Non-blocking fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -344,6 +345,10 @@
       position: absolute;
       border-radius: 50%;
       filter: blur(80px);
+    }
+    @media (max-width: 768px) {
+      .hero-bg-orb { display: none; }
+      .hero-grid-lines { display: none; }
     }
     .orb-1 {
       width: 600px; height: 600px;
@@ -1851,7 +1856,7 @@
     <div class="slider-viewport" id="filmSlider" role="region" aria-label="Slider filme și seriale">
       <div class="slider-track" id="sliderTrack">
         <div class="slide" role="img" aria-label="Film IPTV Romania 4K">
-          <img src="assets/aflam/Artboard-1.webp" alt="Film IPTV Romania 4K – streaming premium" loading="lazy" />
+          <img src="assets/aflam/Artboard-1.webp" alt="Film IPTV Romania 4K – streaming premium" fetchpriority="high" />
           <div class="slide-overlay">
             <div class="slide-badge">▶ Disponibil în 4K</div>
           </div>
