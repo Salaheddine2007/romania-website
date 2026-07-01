@@ -229,7 +229,8 @@
     {
       "keyword": "m3u iptv romania",
       "volume": 70,
-      "status": "pending"
+      "status": "done",
+      "url": "https://romaniaiptv.tv/blog/m3u-iptv-romania/"
     },
     {
       "keyword": "iptv m3u",
@@ -589,5 +590,5 @@
       "status": "pending"
     }
   ],
-  "next_index": 29
+  "next_index": 30
 }
