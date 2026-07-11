@@ -220,6 +220,55 @@
       <div class="skel-card"><div class="skel-thumb skeleton"></div><div class="skel-body"><div class="skel-line short skeleton"></div><div class="skel-title skeleton"></div><div class="skel-line mid skeleton"></div><div class="skel-line skeleton"></div></div></div>
     </div>
 
+    <!-- Static fallback so crawlers/clients without JS still see every article link -->
+    <noscript>
+      <ul class="blog-noscript-list">
+        <li><a href="/blog/abonament-iptv-romania/">Abonament IPTV Romania</a></li>
+        <li><a href="/blog/apk-iptv-android/">APK IPTV Android</a></li>
+        <li><a href="/blog/best-iptv-player-for-windows/">Best IPTV Player pentru Windows 2026: Top 6 Aplicații Comparate</a></li>
+        <li><a href="/blog/best-iptv/">Best IPTV 2025: Cele Mai Bune Servicii pentru Români</a></li>
+        <li><a href="/blog/canale-romanesti-online-iptv/">Canale Românești Online IPTV</a></li>
+        <li><a href="/blog/ce-inseamna-iptv/">Ce Înseamnă IPTV? Ghid Complet 2025</a></li>
+        <li><a href="/blog/digital-iptv-romania/">Digital IPTV Romania</a></li>
+        <li><a href="/blog/forum-iptv/">Forum IPTV România</a></li>
+        <li><a href="/blog/free-iptv-m3u/">Free IPTV M3U</a></li>
+        <li><a href="/blog/free-iptv/">Free IPTV</a></li>
+        <li><a href="/blog/furnizori-iptv-romania/">Furnizori IPTV Romania: Ghid Complet 2025</a></li>
+        <li><a href="/blog/ines-iptv/">INES IPTV România 2026</a></li>
+        <li><a href="/blog/iptv-app-for-android-tv/">IPTV App pentru Android TV</a></li>
+        <li><a href="/blog/iptv-app/">IPTV App: Cele Mai Bune Aplicații IPTV [2026]</a></li>
+        <li><a href="/blog/iptv-apple-tv/">IPTV pe Apple TV</a></li>
+        <li><a href="/blog/iptv-canale-romanesti/">Canale Romanesti IPTV 2026</a></li>
+        <li><a href="/blog/iptv-digi/">IPTV Digi</a></li>
+        <li><a href="/blog/iptv-extreme/">IPTV Extreme</a></li>
+        <li><a href="/blog/iptv-forum/">IPTV Forum Romania</a></li>
+        <li><a href="/blog/iptv-installation/">Instalare IPTV: Ghid Complet pentru Toate Dispozitivele</a></li>
+        <li><a href="/blog/iptv-list-romania/">Lista IPTV Romania 2026</a></li>
+        <li><a href="/blog/iptv-m3u-free/">IPTV M3U Free</a></li>
+        <li><a href="/blog/iptv-m3u-romania/">IPTV M3U Romania</a></li>
+        <li><a href="/blog/iptv-m3u/">IPTV M3U Romania 2026</a></li>
+        <li><a href="/blog/iptv-playlist/">IPTV Playlist România 2026</a></li>
+        <li><a href="/blog/iptv-pro/">IPTV Pro</a></li>
+        <li><a href="/blog/iptv-romania-android/">IPTV Romania pe Android: Ghid Complet 2026</a></li>
+        <li><a href="/blog/iptv-romania-diaspora/">IPTV Romania Diaspora 2026</a></li>
+        <li><a href="/blog/iptv-romania-gratis/">IPTV Romania Gratis 2026: Tot Ce Trebuie Sa Stii + Test 24h</a></li>
+        <li><a href="/blog/iptv-romania-gratuit/">IPTV Romania Gratuit 2026: Adevărul + Test Gratis 24h</a></li>
+        <li><a href="/blog/iptv-romania-legal/">IPTV Romania Legal</a></li>
+        <li><a href="/blog/iptv-romania-lista-canale/">Lista Canale IPTV Romania 2026: 20.000+ Canale HD/4K</a></li>
+        <li><a href="/blog/iptv-romania/">IPTV Romania</a></li>
+        <li><a href="/blog/iptv-smarters-player/">IPTV Smarters Player</a></li>
+        <li><a href="/blog/iptv-smarters-pro/">IPTV Smarters Pro 2026</a></li>
+        <li><a href="/blog/iptv-smarters/">IPTV Smarters Romania 2026</a></li>
+        <li><a href="/blog/m3u-iptv-romania/">M3U IPTV Romania</a></li>
+        <li><a href="/blog/m3u-iptv/">M3U IPTV: Ghid Complet pentru Liste de Redare în România 2026</a></li>
+        <li><a href="/blog/net-iptv/">Net IPTV</a></li>
+        <li><a href="/blog/playlist-iptv/">Playlist IPTV: Ghid Complet pentru M3U și M3U8 în 2025</a></li>
+        <li><a href="/blog/romania-iptv-m3u/">Romania IPTV M3U</a></li>
+        <li><a href="/blog/smart-iptv/">Smart IPTV 2026</a></li>
+        <li><a href="/blog/xtream-iptv/">Xtream IPTV</a></li>
+      </ul>
+    </noscript>
+
     <div class="sidebar-cta">
       <h3>Vrei IPTV Romania acum?</h3>
       <p>Test gratuit 24 ore — activare in 5 minute pe orice dispozitiv.</p>
@@ -339,14 +388,20 @@
       const data = await res.json();
 
       // Build posts list from published keywords
-      const published = (data.keywords || []).filter(k => k.status === 'published' && k.slug);
-      allPosts = published.map(k => ({
-        slug: k.slug,
-        title: k.title || slugToTitle(k.slug),
-        excerpt: k.excerpt || `Ghid complet despre ${k.keyword} — instalare, configurare si cele mai bune optiuni disponibile in 2026.`,
-        date: k.published_at || new Date().toISOString(),
-        keyword: k.keyword
-      })).sort((a, b) => new Date(b.date) - new Date(a.date));
+      const published = (data.keywords || []).filter(k => (k.status === 'published' || k.status === 'done') && (k.slug || k.url));
+      const bySlug = new Map();
+      published.forEach(k => {
+        const slug = k.slug || (k.url ? k.url.replace(/\/$/, '').split('/').pop() : null);
+        if (!slug || bySlug.has(slug)) return;
+        bySlug.set(slug, {
+          slug,
+          title: k.title || slugToTitle(slug),
+          excerpt: k.excerpt || `Ghid complet despre ${k.keyword} — instalare, configurare si cele mai bune optiuni disponibile in 2026.`,
+          date: k.posted_date || k.published_at || new Date().toISOString(),
+          keyword: k.keyword
+        });
+      });
+      allPosts = Array.from(bySlug.values()).sort((a, b) => new Date(b.date) - new Date(a.date));
 
       // Fallback: also try listing the blog directory via GitHub API
       if (!allPosts.length) {
