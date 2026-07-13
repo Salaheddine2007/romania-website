@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <defs>
+    <linearGradient id="bgr2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#002B7F;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0044CC;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bgr2)" rx="12"/>
+  <rect x="120" y="70" width="260" height="300" rx="12" fill="#f0f4ff"/>
+  <text x="250" y="105" font-family="system-ui,Arial,sans-serif" font-size="16" font-weight="bold" fill="#CE1126" text-anchor="middle">Lista Gratuita</text>
+  <circle cx="250" cy="150" r="26" fill="none" stroke="#CE1126" stroke-width="4"/>
+  <line x1="234" y1="134" x2="266" y2="166" stroke="#CE1126" stroke-width="4"/>
+  <text x="250" y="200" font-family="system-ui,Arial,sans-serif" font-size="12" fill="#333" text-anchor="middle">Linkuri expira</text>
+  <text x="250" y="222" font-family="system-ui,Arial,sans-serif" font-size="12" fill="#333" text-anchor="middle">Fara EPG</text>
+  <text x="250" y="244" font-family="system-ui,Arial,sans-serif" font-size="12" fill="#333" text-anchor="middle">Fara suport</text>
+  <text x="250" y="266" font-family="system-ui,Arial,sans-serif" font-size="12" fill="#333" text-anchor="middle">Risc securitate</text>
+  <text x="250" y="288" font-family="system-ui,Arial,sans-serif" font-size="12" fill="#333" text-anchor="middle">Calitate variabila</text>
+  <rect x="420" y="70" width="260" height="300" rx="12" fill="#f0f4ff"/>
+  <text x="550" y="105" font-family="system-ui,Arial,sans-serif" font-size="16" font-weight="bold" fill="#00880a" text-anchor="middle">Abonament Platit</text>
+  <circle cx="550" cy="150" r="26" fill="none" stroke="#00880a" stroke-width="4"/>
+  <polyline points="538,150 548,162 566,138" fill="none" stroke="#00880a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="550" y="200" font-family="system-ui,Arial,sans-serif" font-size="12" fill="#333" text-anchor="middle">Uptime 99%+</text>
+  <text x="550" y="222" font-family="system-ui,Arial,sans-serif" font-size="12" fill="#333" text-anchor="middle">EPG complet</text>
+  <text x="550" y="244" font-family="system-ui,Arial,sans-serif" font-size="12" fill="#333" text-anchor="middle">Suport WhatsApp</text>
+  <text x="550" y="266" font-family="system-ui,Arial,sans-serif" font-size="12" fill="#333" text-anchor="middle">Sursa verificata</text>
+  <text x="550" y="288" font-family="system-ui,Arial,sans-serif" font-size="12" fill="#333" text-anchor="middle">HD / 4K stabil</text>
+  <text x="400" y="410" font-family="system-ui,Arial,sans-serif" font-size="24" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Gratuit vs. Sigur</text>
+  <text x="400" y="435" font-family="system-ui,Arial,sans-serif" font-size="14" fill="#FCD116" text-anchor="middle">romaniaiptv.tv</text>
+</svg>
