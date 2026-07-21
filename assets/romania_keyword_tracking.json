@@ -258,18 +258,24 @@
                      {
                          "keyword":  "iptv m3u free",
                          "volume":  40,
-                         "status":  "pending"
+                         "status":  "done",
+                         "posted_date":  "2026-07-17",
+                         "url":  "https://romaniaiptv.tv/blog/iptv-m3u-free/"
                      },
                      {
                          "keyword":  "free iptv",
                          "volume":  110,
-                         "status":  "pending",
-                         "kd":  39
+                         "kd":  39,
+                         "status":  "done",
+                         "posted_date":  "2026-07-17",
+                         "url":  "https://romaniaiptv.tv/blog/free-iptv/"
                      },
                      {
                          "keyword":  "iptv installation",
                          "volume":  40,
-                         "status":  "pending"
+                         "status":  "done",
+                         "posted_date":  "2026-07-17",
+                         "url":  "https://romaniaiptv.tv/blog/iptv-installation/"
                      },
                      {
                          "keyword":  "android iptv",
@@ -282,23 +288,25 @@
                      {
                          "keyword":  "apk iptv android",
                          "volume":  30,
-                         "status":  "pending",
-                         "posted_date":  null,
                          "slug":  "iptv-romania-android",
-                         "url":  null
+                         "status":  "done",
+                         "posted_date":  "2026-07-17",
+                         "url":  "https://romaniaiptv.tv/blog/apk-iptv-android/"
                      },
                      {
                          "keyword":  "iptv app",
                          "volume":  30,
-                         "status":  "pending"
+                         "status":  "done",
+                         "posted_date":  "2026-07-17",
+                         "url":  "https://romaniaiptv.tv/blog/iptv-app/"
                      },
                      {
                          "keyword":  "iptv app for android tv",
                          "volume":  30,
-                         "status":  "pending",
-                         "posted_date":  null,
                          "slug":  "iptv-romania-android",
-                         "url":  null
+                         "status":  "done",
+                         "posted_date":  "2026-07-17",
+                         "url":  "https://romaniaiptv.tv/blog/iptv-app-for-android-tv/"
                      },
                      {
                          "keyword":  "iptv apple tv",
@@ -399,7 +407,9 @@
                      {
                          "keyword":  "ines iptv",
                          "volume":  170,
-                         "status":  "pending"
+                         "status":  "done",
+                         "posted_date":  "2026-06-22",
+                         "url":  "https://romaniaiptv.tv/blog/ines-iptv/"
                      },
                      {
                          "keyword":  "iptv ines",
