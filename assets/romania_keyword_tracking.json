@@ -349,8 +349,10 @@
     {
       "keyword": "iptv player",
       "volume": 110,
-      "status": "pending",
-      "kd": 56
+      "status": "done",
+      "kd": 56,
+      "posted_date": "2026-07-24",
+      "url": "https://romaniaiptv.tv/blog/iptv-player/"
     },
     {
       "keyword": "iptv media player",
