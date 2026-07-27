@@ -371,8 +371,10 @@
     {
       "keyword": "world iptv",
       "volume": 90,
-      "status": "pending",
-      "kd": 30
+      "status": "done",
+      "kd": 30,
+      "posted_date": "2026-07-27",
+      "url": "https://romaniaiptv.tv/blog/world-iptv/"
     },
     {
       "keyword": "global iptv",
