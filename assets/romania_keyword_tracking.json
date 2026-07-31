@@ -224,13 +224,15 @@
       "keyword": "romania iptv m3u",
       "volume": 170,
       "status": "done",
-      "url": "https://romaniaiptv.tv/blog/romania-iptv-m3u/"
+      "url": "https://romaniaiptv.tv/blog/romania-iptv-m3u/",
+      "posted_date": "2026-07-17"
     },
     {
       "keyword": "m3u iptv romania",
       "volume": 70,
       "status": "done",
-      "url": "https://romaniaiptv.tv/blog/m3u-iptv-romania/"
+      "url": "https://romaniaiptv.tv/blog/m3u-iptv-romania/",
+      "posted_date": "2026-07-17"
     },
     {
       "keyword": "iptv m3u",
@@ -245,7 +247,8 @@
       "volume": 90,
       "status": "done",
       "kd": 43,
-      "url": "https://romaniaiptv.tv/blog/iptv-playlist/"
+      "url": "https://romaniaiptv.tv/blog/iptv-playlist/",
+      "posted_date": "2026-07-17"
     },
     {
       "keyword": "free iptv m3u",
@@ -421,7 +424,9 @@
     {
       "keyword": "evo iptv romania",
       "volume": 30,
-      "status": "pending"
+      "status": "done",
+      "posted_date": "2026-07-31",
+      "url": "https://romaniaiptv.tv/blog/evo-iptv-romania/"
     },
     {
       "keyword": "ines iptv romania",
