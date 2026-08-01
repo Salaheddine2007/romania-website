@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <defs>
+    <linearGradient id="bgr1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#002B7F;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0044CC;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bgr1)" rx="12"/>
+  <rect x="150" y="70" width="500" height="300" rx="14" fill="#f0f4ff"/>
+  <rect x="170" y="90" width="460" height="26" rx="6" fill="#002B7F"/>
+  <circle cx="188" cy="103" r="5" fill="#CE1126"/>
+  <circle cx="204" cy="103" r="5" fill="#FCD116"/>
+  <circle cx="220" cy="103" r="5" fill="#00880a"/>
+  <rect x="190" y="140" width="420" height="120" rx="8" fill="#001a4d"/>
+  <circle cx="400" cy="200" r="34" fill="none" stroke="#FCD116" stroke-width="4"/>
+  <polygon points="388,182 388,218 422,200" fill="#FCD116"/>
+  <rect x="190" y="280" width="130" height="18" rx="4" fill="#002B7F" opacity="0.5"/>
+  <rect x="330" y="280" width="130" height="18" rx="4" fill="#FCD116" opacity="0.7"/>
+  <rect x="470" y="280" width="130" height="18" rx="4" fill="#002B7F" opacity="0.5"/>
+  <text x="400" y="335" font-family="system-ui,Arial,sans-serif" font-size="20" font-weight="bold" fill="#002B7F" text-anchor="middle">Windows PC</text>
+  <text x="400" y="405" font-family="system-ui,Arial,sans-serif" font-size="28" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Best IPTV Player</text>
+  <text x="400" y="430" font-family="system-ui,Arial,sans-serif" font-size="15" fill="#FCD116" text-anchor="middle">romaniaiptv.tv</text>
+</svg>

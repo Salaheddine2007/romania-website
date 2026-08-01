@@ -143,11 +143,11 @@
     {
       "keyword": "iptv canale romanesti",
       "volume": 70,
-      "status": "pending",
+      "status": "done",
       "kd": 38,
-      "posted_date": null,
+      "posted_date": "2026-06-20",
       "slug": "iptv-romania-lista-canale",
-      "url": null
+      "url": "https://romaniaiptv.tv/blog/iptv-canale-romanesti/"
     },
     {
       "keyword": "iptv gratuit romania",
@@ -160,93 +160,125 @@
     {
       "keyword": "iptv list romania",
       "volume": 30,
-      "status": "pending"
+      "status": "done",
+      "posted_date": "2026-06-21",
+      "slug": "iptv-list-romania"
     },
     {
       "keyword": "smart iptv",
       "volume": 1300,
-      "status": "pending",
-      "kd": 29
+      "status": "done",
+      "kd": 29,
+      "posted_date": "2026-06-23",
+      "url": "https://romaniaiptv.tv/blog/smart-iptv/"
     },
     {
       "keyword": "iptv smarters pro",
       "volume": 390,
-      "status": "pending",
-      "kd": 38
+      "status": "done",
+      "kd": 38,
+      "posted_date": "2026-06-24",
+      "url": "https://romaniaiptv.tv/blog/iptv-smarters-pro/"
     },
     {
       "keyword": "iptv smarters",
       "volume": 170,
-      "status": "pending",
-      "kd": 37
+      "status": "done",
+      "kd": 37,
+      "posted_date": "2026-06-25",
+      "url": "https://romaniaiptv.tv/blog/iptv-smarters/"
     },
     {
       "keyword": "iptv smarters player",
       "volume": 50,
-      "status": "pending",
-      "kd": 35
+      "status": "done",
+      "kd": 35,
+      "posted_date": "2026-06-26",
+      "url": "https://romaniaiptv.tv/blog/iptv-smarters-player/"
     },
     {
       "keyword": "xtream iptv",
       "volume": 90,
-      "status": "pending",
-      "kd": 31
+      "status": "done",
+      "kd": 31,
+      "posted_date": "2026-06-27",
+      "url": "https://romaniaiptv.tv/blog/xtream-iptv/"
     },
     {
       "keyword": "playlist iptv",
       "volume": 210,
-      "status": "pending",
-      "kd": 29
+      "status": "done",
+      "kd": 29,
+      "posted_date": "2026-06-28",
+      "url": "https://romaniaiptv.tv/blog/playlist-iptv/"
     },
     {
       "keyword": "m3u iptv",
       "volume": 170,
-      "status": "pending",
-      "kd": 31
+      "status": "done",
+      "kd": 31,
+      "posted_date": "2026-06-29",
+      "url": "https://romaniaiptv.tv/blog/m3u-iptv/"
     },
     {
       "keyword": "romania iptv m3u",
       "volume": 170,
-      "status": "pending"
+      "status": "done",
+      "url": "https://romaniaiptv.tv/blog/romania-iptv-m3u/",
+      "posted_date": "2026-07-17"
     },
     {
       "keyword": "m3u iptv romania",
       "volume": 70,
-      "status": "pending"
+      "status": "done",
+      "url": "https://romaniaiptv.tv/blog/m3u-iptv-romania/",
+      "posted_date": "2026-07-17"
     },
     {
       "keyword": "iptv m3u",
       "volume": 110,
-      "status": "pending",
-      "kd": 33
+      "status": "done",
+      "kd": 33,
+      "posted_date": "2026-07-03",
+      "url": "https://romaniaiptv.tv/blog/iptv-m3u/"
     },
     {
       "keyword": "iptv playlist",
       "volume": 90,
-      "status": "pending",
-      "kd": 43
+      "status": "done",
+      "kd": 43,
+      "url": "https://romaniaiptv.tv/blog/iptv-playlist/",
+      "posted_date": "2026-07-17"
     },
     {
       "keyword": "free iptv m3u",
       "volume": 90,
-      "status": "pending",
-      "kd": 34
+      "kd": 34,
+      "status": "done",
+      "posted_date": "2026-07-16",
+      "url": "https://romaniaiptv.tv/blog/free-iptv-m3u-list/"
     },
     {
       "keyword": "iptv m3u free",
       "volume": 40,
-      "status": "pending"
+      "status": "done",
+      "posted_date": "2026-07-17",
+      "url": "https://romaniaiptv.tv/blog/iptv-m3u-free/"
     },
     {
       "keyword": "free iptv",
       "volume": 110,
-      "status": "pending",
-      "kd": 39
+      "kd": 39,
+      "status": "done",
+      "posted_date": "2026-07-17",
+      "url": "https://romaniaiptv.tv/blog/free-iptv/"
     },
     {
       "keyword": "iptv installation",
       "volume": 40,
-      "status": "pending"
+      "status": "done",
+      "posted_date": "2026-07-17",
+      "url": "https://romaniaiptv.tv/blog/iptv-installation/"
     },
     {
       "keyword": "android iptv",
@@ -259,23 +291,25 @@
     {
       "keyword": "apk iptv android",
       "volume": 30,
-      "status": "pending",
-      "posted_date": null,
       "slug": "iptv-romania-android",
-      "url": null
+      "status": "done",
+      "posted_date": "2026-07-17",
+      "url": "https://romaniaiptv.tv/blog/apk-iptv-android/"
     },
     {
       "keyword": "iptv app",
       "volume": 30,
-      "status": "pending"
+      "status": "done",
+      "posted_date": "2026-07-17",
+      "url": "https://romaniaiptv.tv/blog/iptv-app/"
     },
     {
       "keyword": "iptv app for android tv",
       "volume": 30,
-      "status": "pending",
-      "posted_date": null,
       "slug": "iptv-romania-android",
-      "url": null
+      "status": "done",
+      "posted_date": "2026-07-17",
+      "url": "https://romaniaiptv.tv/blog/iptv-app-for-android-tv/"
     },
     {
       "keyword": "iptv apple tv",
@@ -288,97 +322,132 @@
     {
       "keyword": "best iptv player android",
       "volume": 30,
-      "status": "pending",
-      "posted_date": null,
       "slug": "iptv-romania-android",
-      "url": null
+      "status": "done",
+      "posted_date": "2026-07-21",
+      "url": "https://romaniaiptv.tv/blog/best-iptv-player-android/"
     },
     {
       "keyword": "best iptv player for windows",
       "volume": 30,
-      "status": "pending"
+      "status": "done",
+      "url": "https://romaniaiptv.tv/blog/best-iptv-player-for-windows/",
+      "posted_date": "2026-07-10",
+      "slug": "best-iptv-player-for-windows"
     },
     {
       "keyword": "best 4k iptv",
       "volume": 30,
-      "status": "pending"
+      "status": "done",
+      "posted_date": "2026-07-22",
+      "url": "https://romaniaiptv.tv/blog/best-4k-iptv/"
     },
     {
       "keyword": "best iptv kodi",
       "volume": 30,
-      "status": "pending"
+      "status": "done",
+      "posted_date": "2026-07-23",
+      "url": "https://romaniaiptv.tv/blog/best-iptv-kodi/"
     },
     {
       "keyword": "iptv player",
       "volume": 110,
-      "status": "pending",
-      "kd": 56
+      "status": "done",
+      "kd": 56,
+      "posted_date": "2026-07-24",
+      "url": "https://romaniaiptv.tv/blog/iptv-player/"
     },
     {
       "keyword": "iptv media player",
       "volume": 30,
-      "status": "pending"
+      "status": "done",
+      "posted_date": "2026-07-25",
+      "url": "https://romaniaiptv.tv/blog/iptv-media-player/"
     },
     {
       "keyword": "iptv for windows 10",
       "volume": 30,
-      "status": "pending"
+      "status": "done",
+      "posted_date": "2026-07-26",
+      "url": "https://romaniaiptv.tv/blog/iptv-for-windows-10/"
     },
     {
       "keyword": "world iptv",
       "volume": 90,
-      "status": "pending",
-      "kd": 30
+      "status": "done",
+      "kd": 30,
+      "posted_date": "2026-07-27",
+      "url": "https://romaniaiptv.tv/blog/world-iptv/"
     },
     {
       "keyword": "global iptv",
       "volume": 30,
-      "status": "pending"
+      "status": "done",
+      "posted_date": "2026-07-28",
+      "url": "https://romaniaiptv.tv/blog/global-iptv/"
     },
     {
       "keyword": "iptv abonament",
       "volume": 30,
-      "status": "pending"
+      "status": "done",
+      "posted_date": "2026-07-28",
+      "url": "https://romaniaiptv.tv/blog/iptv-abonament/"
     },
     {
       "keyword": "iptv abonnement",
       "volume": 30,
-      "status": "pending"
+      "status": "done",
+      "posted_date": "2026-07-29",
+      "url": "https://romaniaiptv.tv/blog/iptv-abonnement/"
     },
     {
       "keyword": "iptv extreme apk",
       "volume": 30,
-      "status": "pending"
+      "status": "done",
+      "posted_date": "2026-07-29",
+      "url": "https://romaniaiptv.tv/blog/iptv-extreme-apk/"
     },
     {
       "keyword": "iptv extreme pro",
       "volume": 30,
-      "status": "pending"
+      "status": "done",
+      "posted_date": "2026-07-30",
+      "url": "https://romaniaiptv.tv/blog/iptv-extreme-pro/"
     },
     {
       "keyword": "extreme iptv",
       "volume": 30,
-      "status": "pending"
+      "status": "done",
+      "posted_date": "2026-07-31",
+      "url": "https://romaniaiptv.tv/blog/extreme-iptv/"
     },
     {
       "keyword": "evo iptv romania",
       "volume": 30,
-      "status": "pending"
+      "status": "done",
+      "posted_date": "2026-07-31",
+      "url": "https://romaniaiptv.tv/blog/evo-iptv-romania/"
     },
     {
       "keyword": "ines iptv romania",
       "volume": 30,
-      "status": "pending"
+      "status": "done",
+      "posted_date": "2026-08-01",
+      "url": "https://romaniaiptv.tv/blog/ines-iptv-romania/"
     },
     {
       "keyword": "ines iptv",
       "volume": 170,
-      "status": "pending"
+      "status": "done",
+      "posted_date": "2026-06-22",
+      "url": "https://romaniaiptv.tv/blog/ines-iptv/"
     },
     {
       "keyword": "iptv ines",
       "volume": 30,
-      "status": "pending"
+      "status": "done",
+      "posted_date": "2026-08-01",
+      "url": "https://romaniaiptv.tv/blog/iptv-ines/"
     },
     {
       "keyword": "iptv antena 3",
@@ -547,8 +616,11 @@
     {
       "keyword": "iptv github",
       "volume": 480,
-      "status": "pending",
-      "kd": 38
+      "status": "done",
+      "kd": 38,
+      "posted_date": "2026-07-13",
+      "slug": "iptv-github",
+      "url": "https://romaniaiptv.tv/blog/iptv-github/"
     },
     {
       "keyword": "github iptv",
@@ -571,5 +643,6 @@
       "volume": 30,
       "status": "pending"
     }
-  ]
+  ],
+  "next_index": 30
 }
