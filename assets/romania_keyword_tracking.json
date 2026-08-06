@@ -494,8 +494,10 @@
     {
       "keyword": "iptv uk",
       "volume": 70,
-      "status": "pending",
-      "kd": 50
+      "status": "done",
+      "kd": 50,
+      "posted_date": "2026-08-06",
+      "url": "https://romaniaiptv.tv/blog/iptv-uk/"
     },
     {
       "keyword": "iptv portugal",
