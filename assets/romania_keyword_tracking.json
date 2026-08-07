@@ -502,8 +502,10 @@
     {
       "keyword": "iptv portugal",
       "volume": 70,
-      "status": "pending",
-      "kd": 32
+      "status": "done",
+      "kd": 32,
+      "posted_date": "2026-08-07",
+      "url": "https://romaniaiptv.tv/blog/iptv-portugal/"
     },
     {
       "keyword": "iptv italiane",
