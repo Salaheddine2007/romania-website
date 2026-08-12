@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <rect width="800" height="450" fill="#001a5c"/>
+  <rect x="0" y="0" width="800" height="6" fill="#FCD116"/>
+  <rect x="0" y="444" width="800" height="6" fill="#CE1126"/>
+  <text x="400" y="80" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#FCD116" text-anchor="middle">LISTA IPTV GRATUITA vs ROMANIA IPTV</text>
+  <rect x="60" y="110" width="330" height="240" rx="8" fill="#002B7F" stroke="#CE1126" stroke-width="2"/>
+  <text x="225" y="145" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#CE1126" text-anchor="middle">LISTA GRATUITA</text>
+  <text x="225" y="180" font-family="Arial, sans-serif" font-size="13" fill="#ffffff" text-anchor="middle">Linkuri expira des</text>
+  <text x="225" y="205" font-family="Arial, sans-serif" font-size="13" fill="#ffffff" text-anchor="middle">Fara suport tehnic</text>
+  <text x="225" y="230" font-family="Arial, sans-serif" font-size="13" fill="#ffffff" text-anchor="middle">Risc de malware</text>
+  <text x="225" y="255" font-family="Arial, sans-serif" font-size="13" fill="#ffffff" text-anchor="middle">Fara canale romanesti stabile</text>
+  <text x="225" y="280" font-family="Arial, sans-serif" font-size="13" fill="#ffffff" text-anchor="middle">Calitate variabila</text>
+  <rect x="410" y="110" width="330" height="240" rx="8" fill="#002B7F" stroke="#FCD116" stroke-width="2"/>
+  <text x="575" y="145" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#FCD116" text-anchor="middle">ROMANIA IPTV</text>
+  <text x="575" y="180" font-family="Arial, sans-serif" font-size="13" fill="#ffffff" text-anchor="middle">Servere monitorizate 24/7</text>
+  <text x="575" y="205" font-family="Arial, sans-serif" font-size="13" fill="#ffffff" text-anchor="middle">Suport tehnic in romana</text>
+  <text x="575" y="230" font-family="Arial, sans-serif" font-size="13" fill="#ffffff" text-anchor="middle">Test gratuit 24h</text>
+  <text x="575" y="255" font-family="Arial, sans-serif" font-size="13" fill="#ffffff" text-anchor="middle">200+ canale romanesti HD/4K</text>
+  <text x="575" y="280" font-family="Arial, sans-serif" font-size="13" fill="#ffffff" text-anchor="middle">Fara intreruperi</text>
+  <text x="400" y="415" font-family="Arial, sans-serif" font-size="14" fill="#ffffff" opacity="0.7" text-anchor="middle">romaniaiptv.tv — Serviciu IPTV Premium pentru Romani</text>
+</svg>
