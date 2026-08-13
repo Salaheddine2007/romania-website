@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <rect width="800" height="450" fill="#FFFFFF"/>
+  <rect x="40" y="40" width="330" height="370" rx="12" fill="#f5f7fa" stroke="#e8ecf0" stroke-width="2"/>
+  <text x="205" y="90" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#CE1126" text-anchor="middle">URL GRATUIT</text>
+  <rect x="65" y="110" width="280" height="8" rx="4" fill="#CE1126" opacity="0.6"/>
+  <rect x="65" y="130" width="220" height="8" rx="4" fill="#999" opacity="0.5"/>
+  <rect x="65" y="150" width="250" height="8" rx="4" fill="#999" opacity="0.5"/>
+  <text x="205" y="200" font-family="Arial, sans-serif" font-size="13" fill="#555e70" text-anchor="middle">Link instabil, expira rapid</text>
+  <text x="205" y="230" font-family="Arial, sans-serif" font-size="42" fill="#CE1126" text-anchor="middle">✕</text>
+  <rect x="430" y="40" width="330" height="370" rx="12" fill="#002B7F" stroke="#FCD116" stroke-width="2"/>
+  <text x="595" y="90" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#FCD116" text-anchor="middle">ROMANIA IPTV</text>
+  <rect x="455" y="110" width="280" height="8" rx="4" fill="#FCD116" opacity="0.8"/>
+  <rect x="455" y="130" width="220" height="8" rx="4" fill="#ffffff" opacity="0.6"/>
+  <rect x="455" y="150" width="250" height="8" rx="4" fill="#ffffff" opacity="0.6"/>
+  <text x="595" y="200" font-family="Arial, sans-serif" font-size="13" fill="#ffffff" text-anchor="middle">Server stabil, monitorizat 24/7</text>
+  <text x="595" y="235" font-family="Arial, sans-serif" font-size="42" fill="#FCD116" text-anchor="middle">✓</text>
+</svg>
