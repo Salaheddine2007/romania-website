@@ -652,8 +652,10 @@
     {
       "keyword": "magyar iptv",
       "volume": 140,
-      "status": "pending",
-      "kd": 5
+      "status": "done",
+      "kd": 5,
+      "posted_date": "2026-08-28",
+      "url": "https://romaniaiptv.tv/blog/magyar-iptv/"
     },
     {
       "keyword": "what is iptv",
