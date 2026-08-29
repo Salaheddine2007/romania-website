@@ -660,8 +660,10 @@
     {
       "keyword": "what is iptv",
       "volume": 140,
-      "status": "pending",
-      "kd": 57
+      "status": "done",
+      "kd": 57,
+      "posted_date": "2026-08-29",
+      "url": "https://romaniaiptv.tv/blog/what-is-iptv/"
     },
     {
       "keyword": "iptv",
