@@ -668,8 +668,10 @@
     {
       "keyword": "iptv",
       "volume": 2900,
-      "status": "pending",
-      "kd": 63
+      "status": "done",
+      "kd": 63,
+      "posted_date": "2026-08-30",
+      "url": "https://romaniaiptv.tv/blog/iptv/"
     },
     {
       "keyword": "iptv github",
