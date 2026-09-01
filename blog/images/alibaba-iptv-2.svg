@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#CE1126;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#002B7F;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg2)" rx="12"/>
+  <rect x="90" y="100" width="620" height="60" rx="8" fill="#FFFFFF" opacity="0.95"/>
+  <rect x="90" y="180" width="440" height="30" rx="6" fill="#FFFFFF" opacity="0.75"/>
+  <rect x="90" y="225" width="500" height="30" rx="6" fill="#FFFFFF" opacity="0.6"/>
+  <rect x="90" y="270" width="360" height="30" rx="6" fill="#FFFFFF" opacity="0.45"/>
+  <circle cx="670" cy="330" r="45" fill="#FCD116"/>
+  <polygon points="655,310 655,350 695,330" fill="#002B7F"/>
+  <text x="400" y="410" font-family="system-ui,Arial,sans-serif" font-size="20" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Canale Romanesti si Internationale</text>
+</svg>
