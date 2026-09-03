@@ -836,10 +836,11 @@
       "keyword": "canale romanesti",
       "volume": 1300,
       "kd": 34,
-      "status": "pending",
-      "posted_date": null,
+      "status": "done",
+      "posted_date": "2026-09-03",
       "post_id": null,
-      "trunk": "channels"
+      "trunk": "channels",
+      "url": "https://romaniaiptv.tv/blog/canale-romanesti/"
     },
     {
       "keyword": "canale romanesti online",
