@@ -182,6 +182,7 @@
       "volume": 30,
       "status": "done",
       "posted_date": "2026-06-21",
+      "url": "https://romaniaiptv.tv/blog/iptv-list-romania/",
       "slug": "iptv-list-romania",
       "trunk": "iptv-romania"
     },
@@ -890,10 +891,12 @@
       "keyword": "canale romanesti online in strainatate",
       "volume": 210,
       "kd": 20,
-      "status": "pending",
-      "posted_date": null,
+      "status": "done",
+      "posted_date": "2026-09-06",
       "post_id": null,
-      "trunk": "channels"
+      "trunk": "channels",
+      "url": "https://romaniaiptv.tv/blog/canale-romanesti-online-in-strainatate/",
+      "slug": "canale-romanesti-online-in-strainatate"
     },
     {
       "keyword": "canale tv gratuit",
