@@ -786,7 +786,8 @@
     {
       "keyword": "adult iptv",
       "volume": 30,
-      "status": "pending",
+      "status": "skipped",
+      "skip_reason": "adult/sexual content topic, not suitable for brand content",
       "trunk": "general"
     },
     {
@@ -800,7 +801,8 @@
     {
       "keyword": "guek iptv",
       "volume": 30,
-      "status": "pending",
+      "status": "skipped",
+      "skip_reason": "likely typo/junk keyword, no clear search intent",
       "trunk": "general"
     },
     {
@@ -902,9 +904,11 @@
       "keyword": "canale tv gratuit",
       "volume": 210,
       "kd": 23,
-      "status": "pending",
-      "posted_date": null,
+      "status": "done",
+      "posted_date": "2026-09-07",
       "post_id": null,
+      "url": "https://romaniaiptv.tv/blog/canale-tv-gratuit/",
+      "slug": "canale-tv-gratuit",
       "trunk": "channels"
     },
     {
