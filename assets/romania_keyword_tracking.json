@@ -955,10 +955,12 @@
       "keyword": "canale romanesti gratis prin satelit",
       "volume": 110,
       "kd": 32,
-      "status": "pending",
-      "posted_date": null,
+      "status": "done",
+      "posted_date": "2026-09-09",
       "post_id": null,
-      "trunk": "channels"
+      "trunk": "channels",
+      "url": "https://romaniaiptv.tv/blog/canale-romanesti-gratis-prin-satelit/",
+      "slug": "canale-romanesti-gratis-prin-satelit"
     },
     {
       "keyword": "canale romanesti tv",
