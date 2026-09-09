@@ -944,10 +944,12 @@
       "keyword": "iptv romania m3u",
       "volume": 110,
       "kd": 24,
-      "status": "pending",
-      "posted_date": null,
+      "status": "done",
+      "posted_date": "2026-09-09",
       "post_id": null,
-      "trunk": "apps_players"
+      "trunk": "apps_players",
+      "url": "https://romaniaiptv.tv/blog/iptv-romania-m3u/",
+      "slug": "iptv-romania-m3u"
     },
     {
       "keyword": "canale romanesti gratis prin satelit",
