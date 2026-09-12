@@ -1007,10 +1007,11 @@
       "keyword": "www canale tv ro",
       "volume": 110,
       "kd": 38,
-      "status": "pending",
-      "posted_date": null,
-      "post_id": null,
-      "trunk": "channels"
+      "status": "done",
+      "posted_date": "2026-09-12",
+      "post_id": "www-canale-tv-ro",
+      "trunk": "channels",
+      "url": "https://romaniaiptv.tv/blog/www-canale-tv-ro/"
     },
     {
       "keyword": "xtream",
