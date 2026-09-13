@@ -1047,10 +1047,11 @@
       "keyword": "ip tv m3u",
       "volume": 70,
       "kd": 41,
-      "status": "pending",
-      "posted_date": null,
-      "post_id": null,
-      "trunk": "apps_players"
+      "status": "done",
+      "posted_date": "2026-09-13",
+      "post_id": "ip-tv-m3u",
+      "trunk": "apps_players",
+      "url": "https://romaniaiptv.tv/blog/ip-tv-m3u/"
     },
     {
       "keyword": "m3u list",
