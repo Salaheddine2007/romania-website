@@ -1057,9 +1057,10 @@
       "keyword": "m3u list",
       "volume": 70,
       "kd": 42,
-      "status": "pending",
-      "posted_date": null,
-      "post_id": null,
+      "status": "done",
+      "posted_date": "2026-09-14",
+      "post_id": "m3u-list",
+      "url": "https://romaniaiptv.tv/blog/m3u-list/",
       "trunk": "apps_players"
     },
     {
