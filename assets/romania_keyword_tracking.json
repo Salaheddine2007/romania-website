@@ -1087,9 +1087,8 @@
       "keyword": "iptv porn",
       "volume": 40,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
-      "post_id": null,
+      "status": "skipped",
+      "skip_reason": "adult/sexual content topic, not suitable for brand content",
       "trunk": "general"
     },
     {
