@@ -1077,9 +1077,10 @@
       "keyword": "xtreams",
       "volume": 50,
       "kd": 31,
-      "status": "pending",
-      "posted_date": null,
-      "post_id": null,
+      "status": "done",
+      "posted_date": "2026-09-15",
+      "post_id": "xtreams",
+      "url": "https://romaniaiptv.tv/blog/xtreams/",
       "trunk": "apps_players"
     },
     {
