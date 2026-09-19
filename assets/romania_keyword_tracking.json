@@ -1165,19 +1165,21 @@
       "keyword": "free iptv m3u list",
       "volume": 30,
       "kd": 0,
-      "status": "pending",
+      "status": "skipped",
       "posted_date": null,
       "post_id": null,
-      "trunk": "apps_players"
+      "trunk": "apps_players",
+      "skip_reason": "slug collision with already-published free-iptv-m3u post (same normalized slug free-iptv-m3u-list), would cannibalize existing content"
     },
     {
       "keyword": "free iptv playlist",
       "volume": 30,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "done",
+      "posted_date": "2026-09-19",
       "post_id": null,
-      "trunk": "apps_players"
+      "trunk": "apps_players",
+      "url": "https://romaniaiptv.tv/blog/free-iptv-playlist/"
     },
     {
       "keyword": "free iptv romania",

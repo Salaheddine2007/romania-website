@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <rect width="800" height="450" fill="#FFFFFF"/>
+  <rect x="0" y="0" width="400" height="450" fill="#fdeeee"/>
+  <rect x="400" y="0" width="400" height="450" fill="#f0f4ff"/>
+  <text x="200" y="60" font-family="system-ui,sans-serif" font-size="20" font-weight="bold" fill="#CE1126" text-anchor="middle">Playlist Gratuita</text>
+  <text x="600" y="60" font-family="system-ui,sans-serif" font-size="20" font-weight="bold" fill="#002B7F" text-anchor="middle">Abonament Stabil</text>
+  <rect x="60" y="100" width="280" height="30" rx="6" fill="#CE1126" opacity="0.15"/>
+  <rect x="60" y="145" width="280" height="30" rx="6" fill="#CE1126" opacity="0.15"/>
+  <rect x="60" y="190" width="280" height="30" rx="6" fill="#CE1126" opacity="0.15"/>
+  <text x="200" y="120" font-family="system-ui,sans-serif" font-size="13" fill="#CE1126" text-anchor="middle">Link nefunctional frecvent</text>
+  <text x="200" y="165" font-family="system-ui,sans-serif" font-size="13" fill="#CE1126" text-anchor="middle">Fara suport tehnic</text>
+  <text x="200" y="210" font-family="system-ui,sans-serif" font-size="13" fill="#CE1126" text-anchor="middle">Canale care dispar</text>
+  <rect x="460" y="100" width="280" height="30" rx="6" fill="#002B7F" opacity="0.12"/>
+  <rect x="460" y="145" width="280" height="30" rx="6" fill="#002B7F" opacity="0.12"/>
+  <rect x="460" y="190" width="280" height="30" rx="6" fill="#002B7F" opacity="0.12"/>
+  <text x="600" y="120" font-family="system-ui,sans-serif" font-size="13" fill="#002B7F" text-anchor="middle">Cont unic, stabil, activ</text>
+  <text x="600" y="165" font-family="system-ui,sans-serif" font-size="13" fill="#002B7F" text-anchor="middle">Suport direct pe WhatsApp</text>
+  <text x="600" y="210" font-family="system-ui,sans-serif" font-size="13" fill="#002B7F" text-anchor="middle">Canale romanesti garantate</text>
+  <rect x="0" y="410" width="800" height="40" fill="#FCD116"/>
+  <text x="400" y="435" font-family="system-ui,sans-serif" font-size="15" font-weight="bold" fill="#002B7F" text-anchor="middle">Romania IPTV - streaming legal si stabil</text>
+</svg>
