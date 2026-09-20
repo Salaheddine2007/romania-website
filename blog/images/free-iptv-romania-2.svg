@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <rect width="800" height="450" fill="#f5f7fb"/>
+  <rect x="0" y="0" width="800" height="60" fill="#002B7F"/>
+  <text x="400" y="38" font-family="system-ui,sans-serif" font-size="20" font-weight="bold" fill="white" text-anchor="middle">Gratuit vs. Abonament Stabil</text>
+  <rect x="40" y="100" width="330" height="300" rx="10" fill="#fdeeee" stroke="#CE1126" stroke-width="2"/>
+  <text x="205" y="140" font-family="system-ui,sans-serif" font-size="17" font-weight="bold" fill="#CE1126" text-anchor="middle">Free IPTV Romania</text>
+  <text x="205" y="180" font-family="system-ui,sans-serif" font-size="13" fill="#333" text-anchor="middle">Linkuri instabile</text>
+  <text x="205" y="210" font-family="system-ui,sans-serif" font-size="13" fill="#333" text-anchor="middle">Fara suport tehnic</text>
+  <text x="205" y="240" font-family="system-ui,sans-serif" font-size="13" fill="#333" text-anchor="middle">Risc legal si de securitate</text>
+  <text x="205" y="270" font-family="system-ui,sans-serif" font-size="13" fill="#333" text-anchor="middle">Canale care dispar brusc</text>
+  <rect x="430" y="100" width="330" height="300" rx="10" fill="#fff9e6" stroke="#FCD116" stroke-width="2"/>
+  <text x="595" y="140" font-family="system-ui,sans-serif" font-size="17" font-weight="bold" fill="#002B7F" text-anchor="middle">Romania IPTV</text>
+  <text x="595" y="180" font-family="system-ui,sans-serif" font-size="13" fill="#333" text-anchor="middle">Cont dedicat si stabil</text>
+  <text x="595" y="210" font-family="system-ui,sans-serif" font-size="13" fill="#333" text-anchor="middle">Suport direct pe WhatsApp</text>
+  <text x="595" y="240" font-family="system-ui,sans-serif" font-size="13" fill="#333" text-anchor="middle">Canale romanesti actualizate</text>
+  <text x="595" y="270" font-family="system-ui,sans-serif" font-size="13" fill="#333" text-anchor="middle">HD/4K fara intreruperi</text>
+</svg>
