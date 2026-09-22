@@ -1235,10 +1235,11 @@
       "keyword": "iptv csomagok",
       "volume": 30,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
-      "post_id": null,
-      "trunk": "general"
+      "status": "done",
+      "posted_date": "2026-09-22",
+      "post_id": "iptv-csomagok",
+      "trunk": "general",
+      "url": "https://romaniaiptv.tv/blog/iptv-csomagok/"
     },
     {
       "keyword": "iptv deutschland",
