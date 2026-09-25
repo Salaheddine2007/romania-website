@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <defs>
+    <linearGradient id="bg1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#002B7F;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0044CC;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg1)" rx="12"/>
+  <rect x="150" y="100" width="500" height="230" rx="10" fill="#001a4d" opacity="0.85"/>
+  <rect x="170" y="118" width="460" height="180" rx="6" fill="#111133"/>
+  <circle cx="400" cy="208" r="34" fill="#CE1126" opacity="0.9"/>
+  <polygon points="388,190 388,226 423,208" fill="#FFFFFF"/>
+  <rect x="330" y="330" width="140" height="14" rx="4" fill="#0a0a2e"/>
+  <rect x="290" y="344" width="220" height="10" rx="5" fill="#0a0a2e"/>
+  <rect x="120" y="60" width="80" height="8" rx="4" fill="#FCD116" opacity="0.7"/>
+  <rect x="600" y="60" width="80" height="8" rx="4" fill="#FCD116" opacity="0.7"/>
+  <text x="400" y="385" font-family="system-ui,Arial,sans-serif" font-size="30" font-weight="bold" fill="#FFFFFF" text-anchor="middle">IPTV Gratuit pe PC</text>
+  <text x="400" y="416" font-family="system-ui,Arial,sans-serif" font-size="16" fill="#FCD116" text-anchor="middle">Ghid pentru Vizionare pe Calculator</text>
+</svg>
