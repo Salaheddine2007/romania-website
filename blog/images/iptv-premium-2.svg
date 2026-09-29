@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#001d5c"/>
+      <stop offset="100%" style="stop-color:#002B7F"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg)" rx="16"/>
+  <circle cx="90" cy="70" r="110" fill="rgba(252,209,22,0.08)"/>
+  <text x="400" y="70" font-family="system-ui,Arial,sans-serif" font-size="26" font-weight="800" fill="#FCD116" text-anchor="middle">Ce include un IPTV premium</text>
+  <g font-family="system-ui,Arial,sans-serif" font-size="17" font-weight="600" fill="#FFFFFF">
+    <rect x="80" y="110" width="290" height="70" rx="10" fill="rgba(255,255,255,0.12)"/><text x="225" y="152" text-anchor="middle">Canale HD / FHD / 4K</text>
+    <rect x="430" y="110" width="290" height="70" rx="10" fill="rgba(255,255,255,0.12)"/><text x="575" y="152" text-anchor="middle">Server stabil, fara buffering</text>
+    <rect x="80" y="205" width="290" height="70" rx="10" fill="rgba(255,255,255,0.12)"/><text x="225" y="247" text-anchor="middle">EPG si VOD incluse</text>
+    <rect x="430" y="205" width="290" height="70" rx="10" fill="rgba(255,255,255,0.12)"/><text x="575" y="247" text-anchor="middle">Suport WhatsApp in romana</text>
+    <rect x="80" y="300" width="290" height="70" rx="10" fill="rgba(255,255,255,0.12)"/><text x="225" y="342" text-anchor="middle">Mai multe dispozitive</text>
+    <rect x="430" y="300" width="290" height="70" rx="10" fill="rgba(255,255,255,0.12)"/><text x="575" y="342" text-anchor="middle">Functioneaza in diaspora</text>
+  </g>
+  <rect x="0" y="420" width="267" height="30" fill="#002B7F"/><rect x="267" y="420" width="266" height="30" fill="#FCD116"/><rect x="533" y="420" width="267" height="30" fill="#CE1126"/>
+</svg>
