@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <defs><linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#001d5c"/><stop offset="100%" style="stop-color:#002B7F"/></linearGradient></defs>
+  <rect width="800" height="450" fill="url(#bg)" rx="16"/>
+  <text x="400" y="70" font-family="system-ui,Arial,sans-serif" font-size="26" font-weight="800" fill="#FCD116" text-anchor="middle">Pasi pentru un APK IPTV sigur</text>
+  <g font-family="system-ui,Arial,sans-serif" font-size="17" font-weight="600" fill="#FFFFFF">
+    <rect x="80" y="110" width="290" height="70" rx="10" fill="rgba(255,255,255,0.12)"/><text x="225" y="152" text-anchor="middle">1. Sursa oficiala a aplicatiei</text>
+    <rect x="430" y="110" width="290" height="70" rx="10" fill="rgba(255,255,255,0.12)"/><text x="575" y="152" text-anchor="middle">2. Verifica permisiunile</text>
+    <rect x="80" y="205" width="290" height="70" rx="10" fill="rgba(255,255,255,0.12)"/><text x="225" y="247" text-anchor="middle">3. Adauga lista m3u / Xtream</text>
+    <rect x="430" y="205" width="290" height="70" rx="10" fill="rgba(255,255,255,0.12)"/><text x="575" y="247" text-anchor="middle">4. Incarca EPG-ul</text>
+    <rect x="80" y="300" width="290" height="70" rx="10" fill="rgba(255,255,255,0.12)"/><text x="225" y="342" text-anchor="middle">5. Testeaza canalele</text>
+    <rect x="430" y="300" width="290" height="70" rx="10" fill="rgba(206,17,38,0.5)"/><text x="575" y="342" text-anchor="middle">Evita APK-urile modificate</text>
+  </g>
+</svg>
