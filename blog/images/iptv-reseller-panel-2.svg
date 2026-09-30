@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <defs><linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#002B7F"/><stop offset="100%" stop-color="#0041BF"/></linearGradient></defs>
+  <rect width="800" height="450" rx="16" fill="url(#g)"/>
+  <circle cx="700" cy="80" r="120" fill="#FCD116" opacity="0.08"/>
+  <circle cx="100" cy="380" r="100" fill="#CE1126" opacity="0.1"/>
+  <rect x="140" y="70" width="520" height="280" rx="12" fill="#10163a" stroke="#FCD116" stroke-width="3"/>
+  <rect x="140" y="70" width="520" height="36" rx="12" fill="#1c2560"/>
+  <circle cx="165" cy="88" r="6" fill="#CE1126"/><circle cx="185" cy="88" r="6" fill="#FCD116"/><circle cx="205" cy="88" r="6" fill="#25D366"/>
+  <rect x="165" y="130" width="150" height="70" rx="8" fill="#002B7F"/><rect x="335" y="130" width="150" height="70" rx="8" fill="#FCD116"/><rect x="505" y="130" width="130" height="70" rx="8" fill="#CE1126"/>
+  <rect x="165" y="225" width="470" height="14" rx="4" fill="#2a3475"/><rect x="165" y="251" width="380" height="14" rx="4" fill="#2a3475"/><rect x="165" y="277" width="420" height="14" rx="4" fill="#2a3475"/><rect x="165" y="303" width="300" height="14" rx="4" fill="#2a3475"/>
+  <text x="400" y="392" text-anchor="middle" font-family="system-ui,Arial,sans-serif" font-size="30" font-weight="800" fill="#fff">Cum alegi panoul potrivit</text>
+  <text x="400" y="422" text-anchor="middle" font-family="system-ui,Arial,sans-serif" font-size="18" fill="#FCD116">Credite - Clienti - Suport - Canale RO</text>
+</svg>
