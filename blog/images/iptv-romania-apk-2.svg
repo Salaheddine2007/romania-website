@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <defs><linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#002B7F"/><stop offset="100%" stop-color="#0041BF"/></linearGradient></defs>
+  <rect width="800" height="450" rx="16" fill="url(#g)"/>
+  <circle cx="700" cy="80" r="120" fill="#FCD116" opacity="0.08"/>
+  <circle cx="100" cy="380" r="100" fill="#CE1126" opacity="0.1"/>
+  <rect x="190" y="60" width="420" height="250" rx="12" fill="#10163a" stroke="#FCD116" stroke-width="3"/><rect x="210" y="80" width="127" height="210" fill="#002B7F"/><rect x="337" y="80" width="126" height="210" fill="#FCD116"/><rect x="463" y="80" width="127" height="210" fill="#CE1126"/><rect x="370" y="320" width="60" height="16" fill="#FCD116"/><rect x="330" y="336" width="140" height="8" rx="4" fill="#FCD116"/>
+  <text x="400" y="392" text-anchor="middle" font-family="system-ui,Arial,sans-serif" font-size="30" font-weight="800" fill="#fff">Instalare pas cu pas</text>
+  <text x="400" y="422" text-anchor="middle" font-family="system-ui,Arial,sans-serif" font-size="18" fill="#FCD116">Telefon, tableta, TV Box si Fire TV</text>
+</svg>
