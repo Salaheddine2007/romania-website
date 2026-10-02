@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <defs><linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#002B7F"/><stop offset="100%" stop-color="#0041BF"/></linearGradient></defs>
+  <rect width="800" height="450" rx="16" fill="url(#g)"/>
+  <circle cx="700" cy="80" r="120" fill="#FCD116" opacity="0.08"/>
+  <circle cx="100" cy="380" r="100" fill="#CE1126" opacity="0.1"/>
+  <rect x="250" y="50" width="300" height="200" rx="14" fill="#10163a" stroke="#FCD116" stroke-width="3"/><rect x="266" y="66" width="89" height="168" fill="#002B7F"/><rect x="355" y="66" width="89" height="168" fill="#FCD116"/><rect x="444" y="66" width="90" height="168" fill="#CE1126"/>
+  <rect x="380" y="250" width="40" height="24" fill="#10163a"/><rect x="340" y="274" width="120" height="8" rx="4" fill="#FCD116"/>
+  <text x="400" y="342" text-anchor="middle" font-family="system-ui,Arial,sans-serif" font-size="26" font-weight="800" fill="#fff">Romani in Rusia</text>
+  <text x="400" y="392" text-anchor="middle" font-family="system-ui,Arial,sans-serif" font-size="30" font-weight="800" fill="#fff">IPTV Russia</text>
+  <text x="400" y="422" text-anchor="middle" font-family="system-ui,Arial,sans-serif" font-size="18" fill="#FCD116">Canale romanesti pe internet</text>
+</svg>
