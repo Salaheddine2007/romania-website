@@ -1444,10 +1444,11 @@
       "keyword": "iptv set top box",
       "volume": 30,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "done",
+      "posted_date": "2026-10-03",
       "post_id": null,
-      "trunk": "devices_boxes"
+      "trunk": "devices_boxes",
+      "url": "https://romaniaiptv.tv/blog/iptv-set-top-box/"
     },
     {
       "keyword": "iptv smart",
