@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <defs><linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#002B7F"/><stop offset="100%" stop-color="#0041BF"/></linearGradient></defs>
+  <rect width="800" height="450" rx="16" fill="url(#g)"/>
+  <circle cx="700" cy="80" r="120" fill="#FCD116" opacity="0.08"/>
+  <circle cx="100" cy="380" r="100" fill="#CE1126" opacity="0.1"/>
+  <rect x="200" y="60" width="240" height="150" rx="10" fill="#10163a" stroke="#FCD116" stroke-width="3"/><rect x="470" y="90" width="80" height="140" rx="12" fill="#10163a" stroke="#FCD116" stroke-width="3"/><rect x="580" y="170" width="60" height="22" rx="6" fill="#CE1126"/><polygon points="305,105 305,165 355,135" fill="#FCD116"/>
+  <text x="400" y="290" text-anchor="middle" font-family="system-ui,Arial,sans-serif" font-size="30" font-weight="800" fill="#fff">Pe orice dispozitiv</text>
+  <text x="400" y="340" text-anchor="middle" font-family="system-ui,Arial,sans-serif" font-size="30" font-weight="800" fill="#fff">TV, telefon, stick</text>
+  <text x="400" y="400" text-anchor="middle" font-family="system-ui,Arial,sans-serif" font-size="18" fill="#FCD116">Test gratuit pe WhatsApp</text>
+</svg>
