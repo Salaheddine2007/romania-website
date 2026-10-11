@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <rect width="800" height="450" fill="#002B7F" rx="16"/>
+  <rect x="70" y="110" width="270" height="180" rx="12" fill="#0d0d1a" stroke="#FCD116" stroke-width="6"/>
+  <text x="205" y="215" font-family="Arial" font-size="48" font-weight="700" fill="#FCD116" text-anchor="middle">IPTV</text>
+  <rect x="460" y="110" width="270" height="180" rx="12" fill="#0d0d1a" stroke="#CE1126" stroke-width="6"/>
+  <text x="595" y="215" font-family="Arial" font-size="48" font-weight="700" fill="#fff" text-anchor="middle">DVB-C</text>
+  <text x="400" y="215" font-family="Arial" font-size="40" font-weight="700" fill="#fff" text-anchor="middle">VS</text>
+  <rect x="150" y="310" width="110" height="12" fill="#FCD116"/><rect x="540" y="310" width="110" height="12" fill="#CE1126"/>
+</svg>

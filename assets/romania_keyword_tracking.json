@@ -1604,10 +1604,11 @@
       "keyword": "iptv vs dvb c",
       "volume": 30,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "done",
+      "posted_date": "2026-10-11",
       "post_id": null,
-      "trunk": "reviews_comparisons"
+      "trunk": "reviews_comparisons",
+      "url": "https://romaniaiptv.tv/blog/iptv-vs-dvb-c/"
     },
     {
       "keyword": "iptv windows",
