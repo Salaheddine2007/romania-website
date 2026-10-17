@@ -1734,28 +1734,31 @@
       "keyword": "porn channels iptv",
       "volume": 30,
       "kd": 0,
-      "status": "pending",
+      "status": "skipped",
       "posted_date": null,
       "post_id": null,
-      "trunk": "general"
+      "trunk": "general",
+      "skip_reason": "adult/sexual content topic, not suitable for brand content"
     },
     {
       "keyword": "porn iptv list",
       "volume": 30,
       "kd": 0,
-      "status": "pending",
+      "status": "skipped",
       "posted_date": null,
       "post_id": null,
-      "trunk": "general"
+      "trunk": "general",
+      "skip_reason": "adult/sexual content topic, not suitable for brand content"
     },
     {
       "keyword": "provider iptv",
       "volume": 30,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "done",
+      "posted_date": "2026-10-17",
       "post_id": null,
-      "trunk": "general"
+      "trunk": "general",
+      "url": "https://romaniaiptv.tv/blog/provider-iptv/"
     },
     {
       "keyword": "romania tv iptv",
