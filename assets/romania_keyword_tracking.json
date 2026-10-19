@@ -1804,10 +1804,11 @@
       "keyword": "sky sport iptv",
       "volume": 30,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "done",
+      "posted_date": "2026-10-19",
       "post_id": null,
-      "trunk": "channels"
+      "trunk": "channels",
+      "url": "https://romaniaiptv.tv/blog/sky-sport-iptv/"
     },
     {
       "keyword": "smart iptv activation",
