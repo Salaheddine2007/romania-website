@@ -1854,10 +1854,11 @@
       "keyword": "smart iptv romania",
       "volume": 30,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "done",
+      "posted_date": "2026-10-22",
       "post_id": null,
-      "trunk": "apps_players"
+      "trunk": "apps_players",
+      "url": "https://romaniaiptv.tv/blog/smart-iptv-romania/"
     },
     {
       "keyword": "smart tv iptv",
