@@ -1864,10 +1864,11 @@
       "keyword": "smart tv iptv",
       "volume": 30,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "done",
+      "posted_date": "2026-10-22",
       "post_id": null,
-      "trunk": "devices_boxes"
+      "trunk": "devices_boxes",
+      "url": "https://romaniaiptv.tv/blog/smart-tv-iptv/"
     },
     {
       "keyword": "source iptv",
