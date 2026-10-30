@@ -2044,37 +2044,41 @@
       "keyword": "adult iptv list",
       "volume": 20,
       "kd": 0,
-      "status": "pending",
+      "status": "skipped",
       "posted_date": null,
       "post_id": null,
-      "trunk": "general"
+      "trunk": "general",
+      "skip_reason": "adult/sexual content topic, not suitable for brand content"
     },
     {
       "keyword": "adult iptv m3u",
       "volume": 20,
       "kd": 0,
-      "status": "pending",
+      "status": "skipped",
       "posted_date": null,
       "post_id": null,
-      "trunk": "apps_players"
+      "trunk": "apps_players",
+      "skip_reason": "adult/sexual content topic, not suitable for brand content"
     },
     {
       "keyword": "adult iptv playlist",
       "volume": 20,
       "kd": 0,
-      "status": "pending",
+      "status": "skipped",
       "posted_date": null,
       "post_id": null,
-      "trunk": "apps_players"
+      "trunk": "apps_players",
+      "skip_reason": "adult/sexual content topic, not suitable for brand content"
     },
     {
       "keyword": "alfa iptv",
       "volume": 20,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "done",
+      "posted_date": "2026-10-30",
       "post_id": null,
-      "trunk": "general"
+      "trunk": "general",
+      "url": "https://romaniaiptv.tv/blog/alfa-iptv/"
     },
     {
       "keyword": "alpha iptv",
