@@ -2104,10 +2104,11 @@
       "keyword": "android box iptv",
       "volume": 20,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "done",
+      "posted_date": "2026-11-01",
       "post_id": null,
-      "trunk": "devices_boxes"
+      "trunk": "devices_boxes",
+      "url": "https://romaniaiptv.tv/blog/android-box-iptv/"
     },
     {
       "keyword": "apk iptv",
