@@ -2334,10 +2334,11 @@
       "keyword": "canal iptv",
       "volume": 20,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "done",
+      "posted_date": "2026-11-13",
       "post_id": null,
-      "trunk": "channels"
+      "trunk": "channels",
+      "url": "https://romaniaiptv.tv/blog/canal-iptv/"
     },
     {
       "keyword": "canale iptv romanesti gratis",
