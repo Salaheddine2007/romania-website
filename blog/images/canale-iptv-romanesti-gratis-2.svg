@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" role="img" aria-label="Comparatie intre liste gratuite si abonament IPTV">
+  <defs><linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#002B7F"/><stop offset="100%" stop-color="#0041BF"/></linearGradient></defs>
+  <rect width="800" height="450" fill="url(#g)" rx="16"/>
+  <circle cx="700" cy="80" r="120" fill="rgba(252,209,22,0.10)"/>
+  <circle cx="100" cy="380" r="100" fill="rgba(206,17,38,0.10)"/>
+  <rect x="60" y="90" width="150" height="220" rx="12" fill="#fff" opacity="0.93"/><rect x="60" y="90" width="150" height="14" fill="#002B7F"/><circle cx="135" cy="190" r="30" fill="#002B7F"/><rect x="240" y="90" width="150" height="220" rx="12" fill="#fff" opacity="0.93"/><rect x="240" y="90" width="150" height="14" fill="#FCD116"/><circle cx="315" cy="190" r="30" fill="#FCD116"/><rect x="420" y="90" width="150" height="220" rx="12" fill="#fff" opacity="0.93"/><rect x="420" y="90" width="150" height="14" fill="#CE1126"/><circle cx="495" cy="190" r="30" fill="#CE1126"/><rect x="600" y="90" width="150" height="220" rx="12" fill="#fff" opacity="0.93"/><rect x="600" y="90" width="150" height="14" fill="#002B7F"/><circle cx="675" cy="190" r="30" fill="#002B7F"/>
+  <text x="400" y="395" font-family="system-ui,Arial,sans-serif" font-size="28" font-weight="700" fill="#fff" text-anchor="middle">Gratis vs abonament</text>
+  <text x="400" y="426" font-family="system-ui,Arial,sans-serif" font-size="18" fill="#FCD116" text-anchor="middle">Compara inainte sa alegi</text>
+</svg>
