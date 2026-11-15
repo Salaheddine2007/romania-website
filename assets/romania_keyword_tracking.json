@@ -2364,10 +2364,11 @@
       "keyword": "canale romanesti iptv",
       "volume": 20,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "done",
+      "posted_date": "2026-11-15",
       "post_id": null,
-      "trunk": "channels"
+      "trunk": "channels",
+      "url": "https://romaniaiptv.tv/blog/canale-romanesti-iptv/"
     },
     {
       "keyword": "canale tv romanesti iptv",
